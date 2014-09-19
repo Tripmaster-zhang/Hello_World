@@ -1,0 +1,103 @@
+﻿<UserControl
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	xmlns:Visifire_Charts="clr-namespace:Visifire.Charts;assembly=WPFVisifire.Charts"
+	xmlns:c="http://stylist.codinator.net/2010"
+	xmlns:ei="http://schemas.microsoft.com/expression/2010/interactions" xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+	mc:Ignorable="d"
+	x:Class="Apollo.TrafficRateRealtime"
+	x:Name="UserControl"
+	d:DesignWidth="388" d:DesignHeight="181">
+
+	<Grid x:Name="LayoutRoot">
+		<VisualStateManager.VisualStateGroups>
+			<VisualStateGroup x:Name="VisualStateGroup" ei:ExtendedVisualStateManager.UseFluidLayout="True">
+				<VisualStateGroup.Transitions>
+					<VisualTransition GeneratedDuration="0:0:1"/>
+				</VisualStateGroup.Transitions>
+				<VisualState x:Name="GridOn">
+					<Storyboard>
+						<ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="grid">
+							<DiscreteObjectKeyFrame KeyTime="0" Value="{x:Static Visibility.Visible}"/>
+						</ObjectAnimationUsingKeyFrames>
+						<ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="grid1">
+							<DiscreteObjectKeyFrame KeyTime="0" Value="{x:Static Visibility.Hidden}"/>
+						</ObjectAnimationUsingKeyFrames>
+					</Storyboard>
+				</VisualState>
+				<VisualState x:Name="GridOff">
+					<Storyboard>
+						<ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="grid">
+							<DiscreteObjectKeyFrame KeyTime="0" Value="{x:Static Visibility.Hidden}"/>
+						</ObjectAnimationUsingKeyFrames>
+						<ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="grid1">
+							<DiscreteObjectKeyFrame KeyTime="0" Value="{x:Static Visibility.Visible}"/>
+						</ObjectAnimationUsingKeyFrames>
+					</Storyboard>
+				</VisualState>
+			</VisualStateGroup>
+		</VisualStateManager.VisualStateGroups>
+		<VisualStateManager.CustomVisualStateManager>
+			<ei:ExtendedVisualStateManager/>
+		</VisualStateManager.CustomVisualStateManager>
+		<Grid x:Name="grid1">
+			<i:Interaction.Triggers>
+				<i:EventTrigger EventName="MouseLeftButtonDown">
+					<ei:GoToStateAction StateName="GridOn"/>
+				</i:EventTrigger>
+			</i:Interaction.Triggers>
+			<c:Stylist Effect="{DynamicResource DropShadowAround}">
+				<c:Background Fill="AliceBlue"/>
+				<c:GridPattern Color="Black" Angle="45" Thickness="0.5" Size="7" Opacity="0.175"/>
+			</c:Stylist>
+			<Visifire_Charts:Chart Background="Transparent" Theme="Theme2" BorderThickness="0" ScrollingEnabled="False">
+				<Visifire_Charts:Chart.TrendLines>
+					<Visifire_Charts:TrendLine Value="1" LineStyle="Dotted" LineColor="Orange"/>
+				</Visifire_Charts:Chart.TrendLines>
+				<Visifire_Charts:Chart.Titles>
+					<Visifire_Charts:Title Name="CurRate" Text="The Last One Minute Throughput (一分钟内的吞吐量)          Cur（当前速率）:   0 Gbps" FontColor="Black" FontFamily="/Apollo;component/Fonts/#Segoe WP" ShadowEnabled="False" DockInsidePlotArea="True" FontSize="16"/>
+				</Visifire_Charts:Chart.Titles>
+				<Visifire_Charts:Chart.PlotArea>
+					<Visifire_Charts:PlotArea ShadowEnabled="False" Background="Transparent"/>
+				</Visifire_Charts:Chart.PlotArea>
+                <Visifire_Charts:Chart.AxesX>
+                    <Visifire_Charts:Axis AxisMinimum="0" AxisMaximum="60" Interval="5" Title="Time(s)" TitleFontSize="15" TitleFontColor="DarkGreen" TitleFontFamily="/Apollo;component/Fonts/#Segoe WP">
+						<Visifire_Charts:Axis.AxisLabels>
+                            <Visifire_Charts:AxisLabels FontColor="DarkGreen" FontFamily="/Apollo;component/Fonts/#Segoe WP"/>
+						</Visifire_Charts:Axis.AxisLabels>
+					</Visifire_Charts:Axis>
+				</Visifire_Charts:Chart.AxesX>
+				<Visifire_Charts:Chart.AxesY>
+                    <Visifire_Charts:Axis Interval="0.25" AxisMinimum="0" AxisMaximum="1.25" Title="Throughput(Gbps)" TitleFontSize="15" TitleFontColor="DarkGreen" TitleFontFamily="/Apollo;component/Fonts/#Segoe WP">
+						<Visifire_Charts:Axis.Grids>
+							<Visifire_Charts:ChartGrid Enabled="False"/>
+						</Visifire_Charts:Axis.Grids>
+						<Visifire_Charts:Axis.AxisLabels>
+							<Visifire_Charts:AxisLabels FontFamily="/Apollo;component/Fonts/#Segoe WP" FontColor="DarkGreen"/>
+						</Visifire_Charts:Axis.AxisLabels>
+					</Visifire_Charts:Axis>
+				</Visifire_Charts:Chart.AxesY>
+            
+				<Visifire_Charts:Chart.Series>
+					<Visifire_Charts:DataSeries RenderAs="Area" x:Name="Realtime" MovingMarkerEnabled="True"/>
+				</Visifire_Charts:Chart.Series>
+			</Visifire_Charts:Chart>
+		</Grid>
+		<Grid x:Name="grid" d:IsHidden="True">
+			<i:Interaction.Triggers>
+				<i:EventTrigger EventName="MouseLeftButtonDown">
+					<ei:GoToStateAction StateName="GridOff"/>
+				</i:EventTrigger>
+			</i:Interaction.Triggers>
+			<c:Stylist>
+                <c:Background Fill="#FF00ACFF"/>
+				<c:Glossy Fill="AliceBlue" Center="0.8,0" RightOffset="0" Opacity="0.1" Anchor="0.4" LeftOffset="0.9"/>
+			</c:Stylist>
+			<Label Content="Throughput(吞吐量)" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="16" Foreground="White" FontFamily="/Apollo;component/Fonts/#Segoe WP"/>
+			<Label Content="Gbps" HorizontalAlignment="Right" VerticalAlignment="Bottom" FontFamily="/Apollo;component/Fonts/#Segoe WP" Foreground="White"/>
+			<Label x:Name="currentRate" Content="0" HorizontalAlignment="Right" Margin="0,0,40,0" VerticalAlignment="Bottom" FontFamily="/Apollo;component/Fonts/#Segoe WP" FontSize="20"/>
+		</Grid>
+	</Grid>
+</UserControl>

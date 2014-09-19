@@ -1,0 +1,27 @@
+﻿<Window
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity" 
+	xmlns:MahApps_Metro_Behaviours="clr-namespace:MahApps.Metro.Behaviours;assembly=MahApps.Metro" 	xmlns:local="clr-namespace:Apollo"
+	xmlns:c="http://stylist.codinator.net/2010" 
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+	mc:Ignorable="d"
+	x:Class="Apollo.MainWindow"
+	x:Name="Window"
+	WindowStartupLocation="CenterScreen"
+	Width="800" Height="450" WindowState="Maximized">
+
+	<i:Interaction.Behaviors>
+		<MahApps_Metro_Behaviours:BorderlessWindowBehavior/>
+	</i:Interaction.Behaviors>
+	<Grid x:Name="LayoutRoot">
+		<c:Stylist>
+			<c:Background Fill="AliceBlue"/>
+			<c:GridPattern Color="Black" Angle="45" Opacity="0.2" Size="6" Thickness="0.5"/>
+		</c:Stylist>
+        <Image Source="/Apollo;component/Icons/WTA.png" Stretch="Fill" HorizontalAlignment="Left" Width="227" VerticalAlignment="Top" Height="67" />
+		<local:HeaderButtonView Height="30" VerticalAlignment="Top"/>
+		<local:MainTabView Margin="0,30,0,0"/>
+	</Grid>
+</Window>

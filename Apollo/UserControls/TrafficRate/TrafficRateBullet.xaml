@@ -1,0 +1,44 @@
+﻿<UserControl
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	xmlns:Visifire_Charts="clr-namespace:Visifire.Charts;assembly=WPFVisifire.Charts"
+	mc:Ignorable="d"
+	x:Class="Apollo.TrafficRateBullet"
+	x:Name="UserControl"
+	d:DesignWidth="400" d:DesignHeight="100">
+
+	<Grid x:Name="LayoutRoot">
+		<Visifire_Charts:Chart BorderThickness="0" Background="Transparent" Theme="Theme2" MaxHeight="50">
+			<Visifire_Charts:Chart.AxesX>
+				<Visifire_Charts:Axis>
+					<Visifire_Charts:Axis.AxisLabels>
+						<Visifire_Charts:AxisLabels Enabled="False"/>
+					</Visifire_Charts:Axis.AxisLabels>
+				</Visifire_Charts:Axis>
+			</Visifire_Charts:Chart.AxesX>
+			<Visifire_Charts:Chart.AxesY>
+				<Visifire_Charts:Axis AxisMaximum="1.2" Interval="0.2">
+					<Visifire_Charts:Axis.AxisLabels>
+						<Visifire_Charts:AxisLabels FontFamily="/Apollo;component/Fonts/#Segoe WP" FontColor="DarkGreen"/>
+					</Visifire_Charts:Axis.AxisLabels>  
+				</Visifire_Charts:Axis>
+			</Visifire_Charts:Chart.AxesY>
+			<Visifire_Charts:Chart.TrendLines>
+				<Visifire_Charts:TrendLine StartValue="0" EndValue="0.4" Orientation="Vertical" LineColor="#FF117FAC"/>
+				<Visifire_Charts:TrendLine StartValue="0.4" EndValue="0.8" LineColor="#FF44B8E7" Orientation="Vertical"/>
+				<Visifire_Charts:TrendLine StartValue="0.8" EndValue="1.2" LineColor="#FF9DE2FF" Orientation="Vertical"/>
+				<Visifire_Charts:TrendLine Value="1" LineColor="Black" Orientation="Vertical"/>
+				<Visifire_Charts:TrendLine x:Name="myTrendlineLabel" Value="1" Orientation="Horizontal" LabelFontFamily="/Apollo;component/Fonts/#Segoe WP" LabelFontColor="DarkGreen"/>
+			</Visifire_Charts:Chart.TrendLines>
+			<Visifire_Charts:Chart.Series>
+				<Visifire_Charts:DataSeries RenderAs="Bar">
+					<Visifire_Charts:DataSeries.DataPoints>
+						<Visifire_Charts:DataPoint x:Name="myBulletValue" Color="Red"/>
+					</Visifire_Charts:DataSeries.DataPoints>
+				</Visifire_Charts:DataSeries>
+			</Visifire_Charts:Chart.Series>
+		</Visifire_Charts:Chart>
+	</Grid>
+</UserControl>

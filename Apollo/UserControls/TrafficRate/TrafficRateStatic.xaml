@@ -1,0 +1,86 @@
+﻿<UserControl
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity" xmlns:ei="http://schemas.microsoft.com/expression/2010/interactions"
+	xmlns:c="http://stylist.codinator.net/2010"
+	xmlns:Visifire_Charts="clr-namespace:Visifire.Charts;assembly=WPFVisifire.Charts"
+	xmlns:local="clr-namespace:Apollo"
+	mc:Ignorable="d"
+	x:Class="Apollo.TrafficRateStatic"
+	x:Name="UserControl"
+	d:DesignWidth="530" d:DesignHeight="120">
+
+	<Grid x:Name="LayoutRoot">
+		<VisualStateManager.CustomVisualStateManager>
+			<ei:ExtendedVisualStateManager/>
+		</VisualStateManager.CustomVisualStateManager>
+		<VisualStateManager.VisualStateGroups>
+			<VisualStateGroup x:Name="VisualStateGroup" ei:ExtendedVisualStateManager.UseFluidLayout="True">
+				<VisualStateGroup.Transitions>
+					<VisualTransition GeneratedDuration="0:0:1"/>
+				</VisualStateGroup.Transitions>
+				<VisualState x:Name="GridOn">
+					<Storyboard>
+						<ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="grid">
+							<DiscreteObjectKeyFrame KeyTime="0" Value="{x:Static Visibility.Visible}"/>
+						</ObjectAnimationUsingKeyFrames>
+						<ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="grid1">
+							<DiscreteObjectKeyFrame KeyTime="0" Value="{x:Static Visibility.Hidden}"/>
+						</ObjectAnimationUsingKeyFrames>
+					</Storyboard>
+				</VisualState>
+				<VisualState x:Name="GridOff">
+					<Storyboard>
+						<ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="grid">
+							<DiscreteObjectKeyFrame KeyTime="0" Value="{x:Static Visibility.Hidden}"/>
+						</ObjectAnimationUsingKeyFrames>
+						<ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="grid1">
+							<DiscreteObjectKeyFrame KeyTime="0" Value="{x:Static Visibility.Visible}"/>
+						</ObjectAnimationUsingKeyFrames>
+					</Storyboard>
+				</VisualState>
+			</VisualStateGroup>
+		</VisualStateManager.VisualStateGroups>
+		<Grid x:Name="grid1">
+			<i:Interaction.Triggers>
+				<i:EventTrigger EventName="MouseLeftButtonDown">
+					<ei:GoToStateAction StateName="GridOn"/>
+				</i:EventTrigger>
+			</i:Interaction.Triggers>
+			<Grid.RowDefinitions>
+				<RowDefinition Height="18*" />
+				<RowDefinition Height="51*"/>
+				<RowDefinition Height="51*"/>
+			</Grid.RowDefinitions>
+			<c:Stylist Grid.RowSpan="3" Effect="{DynamicResource DropShadowAround}" Grid.Row="0">
+				<c:Background Fill="AliceBlue"/>
+				<c:GridPattern Color="Black" Angle="45" Thickness="0.5" Size="7" Opacity="0.175"/>
+			</c:Stylist>
+			<local:TrafficRateBullet x:Name="TRBulletMax" Margin="15,0,37,0" Grid.Row="1" Grid.RowSpan="1" />
+			<local:TrafficRateBullet x:Name="TRBulletAvr" Margin="15,0,37,0" Grid.Row="2" />
+			<Label Content="Max and Avr (最大速率和平均速率)" Grid.Column="0" Grid.Row="0" Margin="0,0,0,0" HorizontalAlignment="Center" Foreground="Black" FontSize="16" FontFamily="/Apollo;component/Fonts/#Segoe WP"/>			
+        </Grid>
+		<Grid x:Name="grid" d:IsHidden="True">
+			<Grid.ColumnDefinitions>
+				<ColumnDefinition Width="0.6*"/>
+				<ColumnDefinition Width="0.4*"/>
+			</Grid.ColumnDefinitions>
+			<i:Interaction.Triggers>
+				<i:EventTrigger EventName="MouseLeftButtonDown">
+					<ei:GoToStateAction StateName="GridOff"/>
+				</i:EventTrigger>
+			</i:Interaction.Triggers>
+			<c:Stylist Grid.RowSpan="2" Grid.ColumnSpan="2">
+				<c:Background Fill="LightSeaGreen"/>
+				<c:Glossy Fill="AliceBlue" Center="0.8,0" RightOffset="0" Opacity="0.1" LeftOffset="0.7" Anchor="0.3"/>
+			</c:Stylist>
+			<Label Content="Key Statistic" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="White" FontSize="16" FontFamily="/Apollo;component/Fonts/#Segoe WP"/>
+			<Label Content="Gbps" HorizontalAlignment="Right" VerticalAlignment="Bottom" Foreground="White" FontFamily="/Apollo;component/Fonts/#Segoe WP" Margin="0"/>
+			<Label Content="Gbps" HorizontalAlignment="Right" VerticalAlignment="Bottom" Foreground="White" FontFamily="/Apollo;component/Fonts/#Segoe WP" Margin="0" Grid.Column="1"/>
+			<Label x:Name="avrRateLabel" Content="Avr（平均速率）:0" HorizontalAlignment="Right" Margin="0,0,40,0" VerticalAlignment="Bottom" FontSize="20" FontFamily="/Apollo;component/Fonts/#Segoe WP" Grid.Column="1"/>
+			<Label x:Name="maxRateLabel" Content="Max（最大速率）:0" HorizontalAlignment="Right" Margin="0,0,40,0" VerticalAlignment="Bottom" FontSize="20" FontFamily="/Apollo;component/Fonts/#Segoe WP"/>
+		</Grid>
+	</Grid>
+</UserControl>

@@ -1,0 +1,103 @@
+﻿<UserControl
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	xmlns:local="clr-namespace:Apollo"
+	xmlns:Visifire_Charts="clr-namespace:Visifire.Charts;assembly=WPFVisifire.Charts"
+	xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity" xmlns:ei="http://schemas.microsoft.com/expression/2010/interactions"
+	xmlns:c="http://stylist.codinator.net/2010"
+	mc:Ignorable="d"
+	x:Class="Apollo.TrafficRateFullFigure"
+	d:DesignWidth="211" d:DesignHeight="211">
+
+	<Grid x:Name="LayoutRoot">
+		<VisualStateManager.CustomVisualStateManager>
+			<ei:ExtendedVisualStateManager/>
+		</VisualStateManager.CustomVisualStateManager>
+		<VisualStateManager.VisualStateGroups>
+			<VisualStateGroup x:Name="VisualStateGroup" ei:ExtendedVisualStateManager.UseFluidLayout="True">
+				<VisualStateGroup.Transitions>
+					<VisualTransition GeneratedDuration="0:0:1"/>
+				</VisualStateGroup.Transitions>
+				<VisualState x:Name="GridOn">
+					<Storyboard>
+						<ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="grid">
+							<DiscreteObjectKeyFrame KeyTime="0" Value="{x:Static Visibility.Visible}"/>
+						</ObjectAnimationUsingKeyFrames>
+						<ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="grid1">
+							<DiscreteObjectKeyFrame KeyTime="0" Value="{x:Static Visibility.Hidden}"/>
+						</ObjectAnimationUsingKeyFrames>
+					</Storyboard>
+				</VisualState>
+				<VisualState x:Name="GridOff">
+					<Storyboard>
+						<ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="grid">
+							<DiscreteObjectKeyFrame KeyTime="0">
+								<DiscreteObjectKeyFrame.Value>
+									<Visibility>Hidden</Visibility>
+								</DiscreteObjectKeyFrame.Value>
+							</DiscreteObjectKeyFrame>
+						</ObjectAnimationUsingKeyFrames>
+						<ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="grid1">
+							<DiscreteObjectKeyFrame KeyTime="0" Value="{x:Static Visibility.Visible}"/>
+						</ObjectAnimationUsingKeyFrames>
+					</Storyboard>
+				</VisualState>
+			</VisualStateGroup>
+		</VisualStateManager.VisualStateGroups>
+        <Grid x:Name="grid1">
+        	<i:Interaction.Triggers>
+        		<i:EventTrigger EventName="MouseLeftButtonDown">
+        			<ei:GoToStateAction StateName="GridOn"/>
+        		</i:EventTrigger>
+        	</i:Interaction.Triggers>
+			<c:Stylist Effect="{DynamicResource DropShadowAround}">
+				<c:Background Fill="AliceBlue"/>
+				<c:GridPattern Color="Black" Angle="45" Thickness="0.5" Size="7" Opacity="0.175"/>
+			</c:Stylist>
+			<Visifire_Charts:Chart Background="Transparent" Theme="Theme2" BorderThickness="0" SamplingThreshold="1200" ScrollingEnabled="False" Margin="0">
+				<Visifire_Charts:Chart.TrendLines>
+					<Visifire_Charts:TrendLine Value="1024" LineStyle="Dotted" LineColor="Orange"/>
+				</Visifire_Charts:Chart.TrendLines>
+				<Visifire_Charts:Chart.Titles>
+					<Visifire_Charts:Title Text="Overview" FontColor="DarkGreen" FontFamily="/Apollo;component/Fonts/#Segoe WP" ShadowEnabled="True" DockInsidePlotArea="True" FontSize="14"/>
+				</Visifire_Charts:Chart.Titles>
+				<Visifire_Charts:Chart.PlotArea>
+					<Visifire_Charts:PlotArea ShadowEnabled="False" Background="Transparent"/>
+				</Visifire_Charts:Chart.PlotArea>
+				<Visifire_Charts:Chart.AxesX>
+					<Visifire_Charts:Axis>
+						<Visifire_Charts:Axis.AxisLabels>
+							<Visifire_Charts:AxisLabels Enabled="False"/>
+						</Visifire_Charts:Axis.AxisLabels>
+					</Visifire_Charts:Axis>
+				</Visifire_Charts:Chart.AxesX>
+            
+				<Visifire_Charts:Chart.AxesY>
+					<Visifire_Charts:Axis Interval="250">
+						<Visifire_Charts:Axis.AxisLabels>
+							<Visifire_Charts:AxisLabels FontFamily="/Apollo;component/Fonts/#Segoe WP" FontColor="DarkGreen"/>
+						</Visifire_Charts:Axis.AxisLabels>
+					</Visifire_Charts:Axis>
+				</Visifire_Charts:Chart.AxesY>
+            
+				<Visifire_Charts:Chart.Series>
+					<Visifire_Charts:DataSeries RenderAs="QuickLine" x:Name="FullFigure" LineThickness="1" Color="Green"/>
+				</Visifire_Charts:Chart.Series>
+			</Visifire_Charts:Chart>
+		</Grid>
+		<Grid x:Name="grid" d:IsHidden="True">
+			<i:Interaction.Triggers>
+				<i:EventTrigger EventName="MouseLeftButtonDown">
+					<ei:GoToStateAction StateName="GridOff"/>
+				</i:EventTrigger>
+			</i:Interaction.Triggers>
+			<c:Stylist>
+                <c:Background Fill="#DE4A4A"/>
+				<c:Glossy Fill="AliceBlue" Center="0.8,0" RightOffset="0" Opacity="0.1" Anchor="0.5" LeftOffset="1"/>
+			</c:Stylist>
+			<Label Content="Constellation" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="White" FontSize="16" FontFamily="/Apollo;component/Fonts/#Segoe WP"/>
+		</Grid>
+	</Grid>
+</UserControl>

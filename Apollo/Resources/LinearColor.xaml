@@ -1,0 +1,23 @@
+﻿<ResourceDictionary
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+	<LinearGradientBrush x:Key="LinearBrushGreen" EndPoint="0.5,1" StartPoint="0.5,0">
+		<GradientStop Color="#FF218921" Offset="0"/>
+		<GradientStop Color="#FF1E821E" Offset="0.5"/>
+		<GradientStop Color="#FF255C25" Offset="0.8"/>
+		<GradientStop Color="#FF28B528" Offset="1"/>
+	</LinearGradientBrush>
+	<LinearGradientBrush x:Key="LinearBrushYellow" StartPoint="0.5,0" EndPoint="0.5,1">
+		<GradientStop Color="#f1f14e" Offset="0"/>
+		<GradientStop Color="#eeee1f" Offset="0.5"/>
+		<GradientStop Color="#c5c510" Offset="0.8"/>
+		<GradientStop Color="#f7f791" Offset="1"/>
+	</LinearGradientBrush>
+	<LinearGradientBrush x:Key="LinearBrushRed" StartPoint="0.5,0" EndPoint="0.5,1">
+		<GradientStop Color="#f25757" Offset="0"/>
+		<GradientStop Color="#d51111" Offset="0.5"/>
+		<GradientStop Color="#a40d0d" Offset="0.8"/>
+		<GradientStop Color="#f03e3e" Offset="1"/>
+	</LinearGradientBrush>
+	<!-- Resource dictionary entries should be defined here. -->
+</ResourceDictionary>

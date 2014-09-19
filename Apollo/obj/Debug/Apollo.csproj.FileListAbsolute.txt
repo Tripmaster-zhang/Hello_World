@@ -1,0 +1,996 @@
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\bin\Debug\Apollo.exe
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\bin\Debug\Apollo.pdb
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\obj\Debug\MainWindow.baml
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\obj\Debug\MainWindow.g.cs
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\obj\Debug\App.g.cs
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\obj\Debug\Apollo_MarkupCompile.cache
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\obj\Debug\Apollo.g.resources
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\obj\Debug\Apollo.exe
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\obj\Debug\Apollo.pdb
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\bin\Debug\Apollo.exe
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\bin\Debug\Apollo.pdb
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\bin\Debug\MahApps.Metro.dll
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\bin\Debug\Microsoft.Expression.Effects.dll
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\bin\Debug\Microsoft.Expression.Prototyping.MockupsWPF.dll
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\bin\Debug\ToggleSwitch.dll
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\bin\Debug\Transitionals.dll
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\bin\Debug\WIT.Codinator.Stylist.WPF.dll
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\bin\Debug\WPFVisifire.Charts.dll
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\bin\Debug\WPFVisifire.Gauges.dll
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\bin\Debug\WPFToolkit.dll
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\bin\Debug\Microsoft.Expression.Effects.xml
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\Resources\ChartSwitchButton.baml
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\Resources\Effect.baml
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\Resources\HeaderButton.baml
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\Resources\LinearColor.baml
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\Resources\ToggleSwitch.baml
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\Resources\TrafficBack.baml
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\UserControls\ChartUCs\PHYRate.baml
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\UserControls\ChartUCs\SpectrumSensing.baml
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\UserControls\HeaderButtonView.baml
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\UserControls\MainTabUCs\AboutGridControl.baml
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\UserControls\MainTabUCs\ChartHead.baml
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\UserControls\NetSyn.baml
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\Views\BER\BERChart.baml
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\Views\Constellation\ConstellationChart.baml
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateBullet.baml
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateDistribution.baml
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateRealtime.baml
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\App.baml
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\MainWindow.g.cs
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\UserControls\ChartUCs\BER.g.cs
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\UserControls\ChartUCs\Constellation.g.cs
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\UserControls\ChartUCs\PHYRate.g.cs
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\UserControls\ChartUCs\SpectrumSensing.g.cs
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\UserControls\ChartUCs\TrafficRate.g.cs
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\UserControls\HeaderButtonView.g.cs
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\UserControls\MainTabUCs\AboutGridControl.g.cs
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\UserControls\MainTabUCs\ChartGridControl.g.cs
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\UserControls\MainTabUCs\ChartHead.g.cs
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\UserControls\MainTabUCs\HomeGridControl.g.cs
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\UserControls\MainTabView.g.cs
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\UserControls\NetSyn.g.cs
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\Views\BER\BERChart.g.cs
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\Views\Constellation\ConstellationChart.g.cs
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateBullet.g.cs
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateDistribution.g.cs
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateFullFigure.g.cs
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateRealtime.g.cs
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateStatic.g.cs
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateUtilization.g.cs
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\App.g.cs
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\Apollo_MarkupCompile.cache
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\Apollo_MarkupCompile.lref
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\MainWindow.baml
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\UserControls\ChartUCs\BER.baml
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\UserControls\ChartUCs\Constellation.baml
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\UserControls\ChartUCs\TrafficRate.baml
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\UserControls\MainTabUCs\ChartGridControl.baml
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\UserControls\MainTabUCs\HomeGridControl.baml
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\UserControls\MainTabView.baml
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateFullFigure.baml
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateStatic.baml
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateUtilization.baml
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\Apollo.g.resources
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\Apollo.exe
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\Apollo.pdb
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\Resources\Simple Styles.baml
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\obj\Debug\Apollo.exe
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\obj\Debug\Apollo.pdb
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\bin\Debug\Apollo.exe
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\bin\Debug\Apollo.pdb
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\bin\Debug\MahApps.Metro.dll
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\bin\Debug\Microsoft.Expression.Effects.dll
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\bin\Debug\ToggleSwitch.dll
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\bin\Debug\Transitionals.dll
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\bin\Debug\WIT.Codinator.Stylist.WPF.dll
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\bin\Debug\WPFToolkit.dll
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\bin\Debug\Microsoft.Expression.Effects.xml
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\obj\Debug\Resources\ChartSwitchButton.baml
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\obj\Debug\Resources\Effect.baml
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\obj\Debug\Resources\HeaderButton.baml
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\obj\Debug\Resources\LinearColor.baml
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\obj\Debug\Resources\ToggleSwitch.baml
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\obj\Debug\Resources\TrafficBack.baml
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\obj\Debug\Resources\Simple Styles.baml
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\obj\Debug\UserControls\ChartUCs\PHYRate.baml
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\obj\Debug\UserControls\ChartUCs\SpectrumSensing.baml
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\obj\Debug\UserControls\HeaderButtonView.baml
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\obj\Debug\UserControls\MainTabUCs\AboutGridControl.baml
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\obj\Debug\UserControls\MainTabUCs\ChartHead.baml
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\obj\Debug\UserControls\NetSyn.baml
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\obj\Debug\Views\BER\BERChart.baml
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\obj\Debug\Views\Constellation\ConstellationChart.baml
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateBullet.baml
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateDistribution.baml
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateRealtime.baml
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\obj\Debug\App.baml
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\obj\Debug\MainWindow.g.cs
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\obj\Debug\UserControls\ChartUCs\BER.g.cs
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\obj\Debug\UserControls\ChartUCs\Constellation.g.cs
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\obj\Debug\UserControls\ChartUCs\PHYRate.g.cs
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\obj\Debug\UserControls\ChartUCs\SpectrumSensing.g.cs
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\obj\Debug\UserControls\ChartUCs\TrafficRate.g.cs
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\obj\Debug\UserControls\HeaderButtonView.g.cs
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\obj\Debug\UserControls\MainTabUCs\AboutGridControl.g.cs
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\obj\Debug\UserControls\MainTabUCs\ChartGridControl.g.cs
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\obj\Debug\UserControls\MainTabUCs\ChartHead.g.cs
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\obj\Debug\UserControls\MainTabUCs\HomeGridControl.g.cs
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\obj\Debug\UserControls\MainTabView.g.cs
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\obj\Debug\UserControls\NetSyn.g.cs
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\obj\Debug\Views\BER\BERChart.g.cs
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\obj\Debug\Views\Constellation\ConstellationChart.g.cs
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateBullet.g.cs
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateDistribution.g.cs
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateFullFigure.g.cs
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateRealtime.g.cs
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateStatic.g.cs
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateUtilization.g.cs
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\obj\Debug\App.g.cs
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\obj\Debug\Apollo_MarkupCompile.cache
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\obj\Debug\Apollo_MarkupCompile.lref
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\obj\Debug\MainWindow.baml
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\obj\Debug\UserControls\ChartUCs\BER.baml
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\obj\Debug\UserControls\ChartUCs\Constellation.baml
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\obj\Debug\UserControls\ChartUCs\TrafficRate.baml
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\obj\Debug\UserControls\MainTabUCs\ChartGridControl.baml
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\obj\Debug\UserControls\MainTabUCs\HomeGridControl.baml
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\obj\Debug\UserControls\MainTabView.baml
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateFullFigure.baml
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateStatic.baml
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateUtilization.baml
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\obj\Debug\Apollo.g.resources
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\Resources\ChartSwitchButton.baml
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\Resources\Effect.baml
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\Resources\HeaderButton.baml
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\Resources\LinearColor.baml
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\Resources\ToggleSwitch.baml
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\Resources\TrafficBack.baml
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\Resources\Simple Styles.baml
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\UserControls\HeaderButtonView.baml
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\UserControls\MainTabUCs\AboutGridControl.baml
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\UserControls\MainTabUCs\ChartHead.baml
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\UserControls\NetSyn.baml
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\Views\BER\BERChart.baml
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\Views\Constellation\ConstellationChart.baml
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\Views\PHYRate\PHYChart.baml
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\Views\SpectrumSensing\ssBlock.baml
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateBullet.baml
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateDistribution.baml
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateRealtime.baml
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\App.baml
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\MainWindow.g.cs
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\UserControls\ChartUCs\BER.g.cs
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\UserControls\ChartUCs\Constellation.g.cs
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\UserControls\ChartUCs\PHYRate.g.cs
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\UserControls\ChartUCs\SpectrumSensing.g.cs
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\UserControls\ChartUCs\TrafficRate.g.cs
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\UserControls\HeaderButtonView.g.cs
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\UserControls\MainTabUCs\AboutGridControl.g.cs
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\UserControls\MainTabUCs\ChartGridControl.g.cs
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\UserControls\MainTabUCs\ChartHead.g.cs
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\UserControls\MainTabUCs\HomeGridControl.g.cs
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\UserControls\MainTabView.g.cs
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\UserControls\NetSyn.g.cs
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\Views\BER\BERChart.g.cs
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\Views\Constellation\ConstellationChart.g.cs
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\Views\PHYRate\PHYChart.g.cs
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\Views\SpectrumSensing\ssBlock.g.cs
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\Views\SpectrumSensing\sSensing.g.cs
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateBullet.g.cs
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateDistribution.g.cs
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateFullFigure.g.cs
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateRealtime.g.cs
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateStatic.g.cs
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateUtilization.g.cs
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\App.g.cs
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\Apollo_MarkupCompile.cache
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\Apollo_MarkupCompile.lref
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\bin\Debug\Apollo.exe
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\bin\Debug\Apollo.pdb
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\bin\Debug\MahApps.Metro.dll
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\bin\Debug\Microsoft.Expression.Effects.dll
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\bin\Debug\ToggleSwitch.dll
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\bin\Debug\Transitionals.dll
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\bin\Debug\WIT.Codinator.Stylist.WPF.dll
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\bin\Debug\WPFToolkit.dll
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\bin\Debug\Microsoft.Expression.Effects.xml
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\bin\Debug\WPFToolkit.pdb
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\MainWindow.baml
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\UserControls\ChartUCs\BER.baml
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\UserControls\ChartUCs\Constellation.baml
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\UserControls\ChartUCs\PHYRate.baml
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\UserControls\ChartUCs\SpectrumSensing.baml
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\UserControls\ChartUCs\TrafficRate.baml
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\UserControls\MainTabUCs\ChartGridControl.baml
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\UserControls\MainTabUCs\HomeGridControl.baml
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\UserControls\MainTabView.baml
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\Views\SpectrumSensing\sSensing.baml
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateFullFigure.baml
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateStatic.baml
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateUtilization.baml
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\Apollo.g.resources
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\Apollo.exe
+C:\Users\HuangKai\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\Apollo.pdb
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\Views\PHYRate\PHYChart.baml
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\Views\SpectrumSensing\ssBlock.baml
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\Views\PHYRate\PHYChart.g.cs
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\Views\SpectrumSensing\ssBlock.g.cs
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\Views\SpectrumSensing\sSensing.g.cs
+C:\Users\WTA-MAC-HK\Documents\Expression\Blend 4\Projects\Apollo\Apollo\Apollo\obj\Debug\Views\SpectrumSensing\sSensing.baml
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\obj\Debug\Apollo.exe
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\obj\Debug\Apollo.pdb
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\bin\Debug\Apollo.exe
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\bin\Debug\Apollo.pdb
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\bin\Debug\MahApps.Metro.dll
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\bin\Debug\Microsoft.Expression.Effects.dll
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\bin\Debug\ToggleSwitch.dll
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\bin\Debug\Transitionals.dll
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\bin\Debug\WPFToolkit.dll
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\bin\Debug\Microsoft.Expression.Effects.xml
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\bin\Debug\WPFToolkit.pdb
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\obj\Debug\Resources\ChartSwitchButton.baml
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\obj\Debug\Resources\Effect.baml
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\obj\Debug\Resources\HeaderButton.baml
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\obj\Debug\Resources\LinearColor.baml
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\obj\Debug\Resources\ToggleSwitch.baml
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\obj\Debug\Resources\TrafficBack.baml
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\obj\Debug\Resources\Simple Styles.baml
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\obj\Debug\UserControls\HeaderButtonView.baml
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\obj\Debug\UserControls\MainTabUCs\AboutGridControl.baml
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\obj\Debug\UserControls\MainTabUCs\ChartHead.baml
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\obj\Debug\UserControls\NetSyn.baml
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\obj\Debug\Views\BER\BERChart.baml
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\obj\Debug\Views\Constellation\ConstellationChart.baml
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\obj\Debug\Views\PHYRate\PHYChart.baml
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\obj\Debug\Views\SpectrumSensing\ssBlock.baml
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateBullet.baml
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateDistribution.baml
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateRealtime.baml
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\obj\Debug\App.baml
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\obj\Debug\UserControls\ChartUCs\BER.g.cs
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\obj\Debug\UserControls\ChartUCs\Constellation.g.cs
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\obj\Debug\UserControls\ChartUCs\PHYRate.g.cs
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\obj\Debug\UserControls\ChartUCs\SpectrumSensing.g.cs
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\obj\Debug\UserControls\ChartUCs\TrafficRate.g.cs
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\obj\Debug\UserControls\HeaderButtonView.g.cs
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\obj\Debug\UserControls\MainTabUCs\AboutGridControl.g.cs
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\obj\Debug\UserControls\MainTabUCs\ChartGridControl.g.cs
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\obj\Debug\UserControls\MainTabUCs\ChartHead.g.cs
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\obj\Debug\UserControls\MainTabUCs\HomeGridControl.g.cs
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\obj\Debug\UserControls\MainTabView.g.cs
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\obj\Debug\UserControls\NetSyn.g.cs
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\obj\Debug\Views\BER\BERChart.g.cs
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\obj\Debug\Views\Constellation\ConstellationChart.g.cs
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\obj\Debug\Views\PHYRate\PHYChart.g.cs
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\obj\Debug\Views\SpectrumSensing\ssBlock.g.cs
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\obj\Debug\Views\SpectrumSensing\sSensing.g.cs
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateBullet.g.cs
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateDistribution.g.cs
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateFullFigure.g.cs
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateRealtime.g.cs
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateStatic.g.cs
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateUtilization.g.cs
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\obj\Debug\App.g.cs
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\obj\Debug\Apollo_MarkupCompile.cache
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\obj\Debug\Apollo_MarkupCompile.lref
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\obj\Debug\UserControls\ChartUCs\BER.baml
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\obj\Debug\UserControls\ChartUCs\Constellation.baml
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\obj\Debug\UserControls\ChartUCs\PHYRate.baml
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\obj\Debug\UserControls\ChartUCs\SpectrumSensing.baml
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\obj\Debug\UserControls\ChartUCs\TrafficRate.baml
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\obj\Debug\UserControls\MainTabUCs\ChartGridControl.baml
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\obj\Debug\UserControls\MainTabUCs\HomeGridControl.baml
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\obj\Debug\UserControls\MainTabView.baml
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\obj\Debug\Views\SpectrumSensing\sSensing.baml
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateFullFigure.baml
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateStatic.baml
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateUtilization.baml
+C:\Users\Administrator\Documents\Expression\Blend Preview for Silverlight 5\Projects\Apollo\Apollo\obj\Debug\Apollo.g.resources
+E:\C#\Apollo\Apollo\obj\Debug\Apollo.exe
+E:\C#\Apollo\Apollo\obj\Debug\Apollo.pdb
+E:\C#\Apollo\Apollo\bin\Debug\Apollo.exe
+E:\C#\Apollo\Apollo\bin\Debug\Apollo.pdb
+E:\C#\Apollo\Apollo\bin\Debug\MahApps.Metro.dll
+E:\C#\Apollo\Apollo\bin\Debug\Microsoft.Expression.Drawing.dll
+E:\C#\Apollo\Apollo\bin\Debug\Microsoft.Expression.Effects.dll
+E:\C#\Apollo\Apollo\bin\Debug\Microsoft.Expression.Interactions.dll
+E:\C#\Apollo\Apollo\bin\Debug\System.Windows.Interactivity.dll
+E:\C#\Apollo\Apollo\bin\Debug\ToggleSwitch.dll
+E:\C#\Apollo\Apollo\bin\Debug\WPFToolkit.dll
+E:\C#\Apollo\Apollo\bin\Debug\Microsoft.Expression.Drawing.xml
+E:\C#\Apollo\Apollo\bin\Debug\Microsoft.Expression.Effects.xml
+E:\C#\Apollo\Apollo\bin\Debug\Microsoft.Expression.Interactions.xml
+E:\C#\Apollo\Apollo\bin\Debug\WPFToolkit.pdb
+E:\C#\Apollo\Apollo\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+E:\C#\Apollo\Apollo\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+E:\C#\Apollo\Apollo\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+E:\C#\Apollo\Apollo\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+E:\C#\Apollo\Apollo\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+E:\C#\Apollo\Apollo\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+E:\C#\Apollo\Apollo\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+E:\C#\Apollo\Apollo\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+E:\C#\Apollo\Apollo\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+E:\C#\Apollo\Apollo\obj\Debug\ResolveAssemblyReference.cache
+E:\C#\Apollo\Apollo\obj\Debug\Resources\ChartSwitchButton.baml
+E:\C#\Apollo\Apollo\obj\Debug\Resources\Effect.baml
+E:\C#\Apollo\Apollo\obj\Debug\Resources\HeaderButton.baml
+E:\C#\Apollo\Apollo\obj\Debug\Resources\LinearColor.baml
+E:\C#\Apollo\Apollo\obj\Debug\Resources\ToggleSwitch.baml
+E:\C#\Apollo\Apollo\obj\Debug\Resources\TrafficBack.baml
+E:\C#\Apollo\Apollo\obj\Debug\Resources\Simple Styles.baml
+E:\C#\Apollo\Apollo\obj\Debug\UserControls\HeaderButtonView.baml
+E:\C#\Apollo\Apollo\obj\Debug\UserControls\MainTabUCs\AboutGridControl.baml
+E:\C#\Apollo\Apollo\obj\Debug\UserControls\MainTabUCs\ChartHead.baml
+E:\C#\Apollo\Apollo\obj\Debug\UserControls\NetSyn.baml
+E:\C#\Apollo\Apollo\obj\Debug\Views\BER\BERChart.baml
+E:\C#\Apollo\Apollo\obj\Debug\Views\Constellation\ConstellationChart.baml
+E:\C#\Apollo\Apollo\obj\Debug\Views\PHYRate\PHYChart.baml
+E:\C#\Apollo\Apollo\obj\Debug\Views\SpectrumSensing\ssBlock.baml
+E:\C#\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateBullet.baml
+E:\C#\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateDistribution.baml
+E:\C#\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateRealtime.baml
+E:\C#\Apollo\Apollo\obj\Debug\App.baml
+E:\C#\Apollo\Apollo\obj\Debug\MainWindow.g.cs
+E:\C#\Apollo\Apollo\obj\Debug\UserControls\ChartUCs\BER.g.cs
+E:\C#\Apollo\Apollo\obj\Debug\UserControls\ChartUCs\Constellation.g.cs
+E:\C#\Apollo\Apollo\obj\Debug\UserControls\ChartUCs\PHYRate.g.cs
+E:\C#\Apollo\Apollo\obj\Debug\UserControls\ChartUCs\SpectrumSensing.g.cs
+E:\C#\Apollo\Apollo\obj\Debug\UserControls\ChartUCs\TrafficRate.g.cs
+E:\C#\Apollo\Apollo\obj\Debug\UserControls\HeaderButtonView.g.cs
+E:\C#\Apollo\Apollo\obj\Debug\UserControls\MainTabUCs\AboutGridControl.g.cs
+E:\C#\Apollo\Apollo\obj\Debug\UserControls\MainTabUCs\ChartGridControl.g.cs
+E:\C#\Apollo\Apollo\obj\Debug\UserControls\MainTabUCs\ChartHead.g.cs
+E:\C#\Apollo\Apollo\obj\Debug\UserControls\MainTabUCs\HomeGridControl.g.cs
+E:\C#\Apollo\Apollo\obj\Debug\UserControls\MainTabView.g.cs
+E:\C#\Apollo\Apollo\obj\Debug\UserControls\NetSyn.g.cs
+E:\C#\Apollo\Apollo\obj\Debug\Views\BER\BERChart.g.cs
+E:\C#\Apollo\Apollo\obj\Debug\Views\Constellation\ConstellationChart.g.cs
+E:\C#\Apollo\Apollo\obj\Debug\Views\PHYRate\PHYChart.g.cs
+E:\C#\Apollo\Apollo\obj\Debug\Views\SpectrumSensing\ssBlock.g.cs
+E:\C#\Apollo\Apollo\obj\Debug\Views\SpectrumSensing\sSensing.g.cs
+E:\C#\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateBullet.g.cs
+E:\C#\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateDistribution.g.cs
+E:\C#\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateFullFigure.g.cs
+E:\C#\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateRealtime.g.cs
+E:\C#\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateStatic.g.cs
+E:\C#\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateUtilization.g.cs
+E:\C#\Apollo\Apollo\obj\Debug\App.g.cs
+E:\C#\Apollo\Apollo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\C#\Apollo\Apollo\obj\Debug\Apollo_MarkupCompile.cache
+E:\C#\Apollo\Apollo\obj\Debug\Apollo_MarkupCompile.lref
+E:\C#\Apollo\Apollo\obj\Debug\MainWindow.baml
+E:\C#\Apollo\Apollo\obj\Debug\UserControls\ChartUCs\BER.baml
+E:\C#\Apollo\Apollo\obj\Debug\UserControls\ChartUCs\Constellation.baml
+E:\C#\Apollo\Apollo\obj\Debug\UserControls\ChartUCs\PHYRate.baml
+E:\C#\Apollo\Apollo\obj\Debug\UserControls\ChartUCs\SpectrumSensing.baml
+E:\C#\Apollo\Apollo\obj\Debug\UserControls\ChartUCs\TrafficRate.baml
+E:\C#\Apollo\Apollo\obj\Debug\UserControls\MainTabUCs\ChartGridControl.baml
+E:\C#\Apollo\Apollo\obj\Debug\UserControls\MainTabUCs\HomeGridControl.baml
+E:\C#\Apollo\Apollo\obj\Debug\UserControls\MainTabView.baml
+E:\C#\Apollo\Apollo\obj\Debug\Views\SpectrumSensing\sSensing.baml
+E:\C#\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateFullFigure.baml
+E:\C#\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateStatic.baml
+E:\C#\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateUtilization.baml
+E:\C#\Apollo\Apollo\obj\Debug\Apollo.g.resources
+E:\Display\Apollo\Apollo\obj\Debug\Apollo.exe
+E:\Display\Apollo\Apollo\obj\Debug\Apollo.pdb
+E:\Display\Apollo\Apollo\bin\Debug\Apollo.exe
+E:\Display\Apollo\Apollo\bin\Debug\Apollo.pdb
+E:\Display\Apollo\Apollo\bin\Debug\MahApps.Metro.dll
+E:\Display\Apollo\Apollo\bin\Debug\Microsoft.Expression.Drawing.dll
+E:\Display\Apollo\Apollo\bin\Debug\Microsoft.Expression.Effects.dll
+E:\Display\Apollo\Apollo\bin\Debug\Microsoft.Expression.Interactions.dll
+E:\Display\Apollo\Apollo\bin\Debug\System.Windows.Interactivity.dll
+E:\Display\Apollo\Apollo\bin\Debug\ToggleSwitch.dll
+E:\Display\Apollo\Apollo\bin\Debug\WPFToolkit.dll
+E:\Display\Apollo\Apollo\bin\Debug\Microsoft.Expression.Drawing.xml
+E:\Display\Apollo\Apollo\bin\Debug\Microsoft.Expression.Effects.xml
+E:\Display\Apollo\Apollo\bin\Debug\Microsoft.Expression.Interactions.xml
+E:\Display\Apollo\Apollo\bin\Debug\WPFToolkit.pdb
+E:\Display\Apollo\Apollo\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+E:\Display\Apollo\Apollo\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+E:\Display\Apollo\Apollo\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+E:\Display\Apollo\Apollo\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+E:\Display\Apollo\Apollo\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+E:\Display\Apollo\Apollo\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+E:\Display\Apollo\Apollo\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+E:\Display\Apollo\Apollo\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+E:\Display\Apollo\Apollo\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+E:\Display\Apollo\Apollo\obj\Debug\ResolveAssemblyReference.cache
+E:\Display\Apollo\Apollo\obj\Debug\Resources\ChartSwitchButton.baml
+E:\Display\Apollo\Apollo\obj\Debug\Resources\Effect.baml
+E:\Display\Apollo\Apollo\obj\Debug\Resources\HeaderButton.baml
+E:\Display\Apollo\Apollo\obj\Debug\Resources\LinearColor.baml
+E:\Display\Apollo\Apollo\obj\Debug\Resources\ToggleSwitch.baml
+E:\Display\Apollo\Apollo\obj\Debug\Resources\TrafficBack.baml
+E:\Display\Apollo\Apollo\obj\Debug\Resources\Simple Styles.baml
+E:\Display\Apollo\Apollo\obj\Debug\UserControls\HeaderButtonView.baml
+E:\Display\Apollo\Apollo\obj\Debug\UserControls\MainTabUCs\AboutGridControl.baml
+E:\Display\Apollo\Apollo\obj\Debug\UserControls\MainTabUCs\ChartHead.baml
+E:\Display\Apollo\Apollo\obj\Debug\UserControls\NetSyn.baml
+E:\Display\Apollo\Apollo\obj\Debug\Views\BER\BERChart.baml
+E:\Display\Apollo\Apollo\obj\Debug\Views\Constellation\ConstellationChart.baml
+E:\Display\Apollo\Apollo\obj\Debug\Views\PHYRate\PHYChart.baml
+E:\Display\Apollo\Apollo\obj\Debug\Views\SpectrumSensing\ssBlock.baml
+E:\Display\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateBullet.baml
+E:\Display\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateDistribution.baml
+E:\Display\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateRealtime.baml
+E:\Display\Apollo\Apollo\obj\Debug\App.baml
+E:\Display\Apollo\Apollo\obj\Debug\MainWindow.g.cs
+E:\Display\Apollo\Apollo\obj\Debug\UserControls\ChartUCs\BER.g.cs
+E:\Display\Apollo\Apollo\obj\Debug\UserControls\ChartUCs\Constellation.g.cs
+E:\Display\Apollo\Apollo\obj\Debug\UserControls\ChartUCs\PHYRate.g.cs
+E:\Display\Apollo\Apollo\obj\Debug\UserControls\ChartUCs\SpectrumSensing.g.cs
+E:\Display\Apollo\Apollo\obj\Debug\UserControls\ChartUCs\TrafficRate.g.cs
+E:\Display\Apollo\Apollo\obj\Debug\UserControls\HeaderButtonView.g.cs
+E:\Display\Apollo\Apollo\obj\Debug\UserControls\MainTabUCs\AboutGridControl.g.cs
+E:\Display\Apollo\Apollo\obj\Debug\UserControls\MainTabUCs\ChartGridControl.g.cs
+E:\Display\Apollo\Apollo\obj\Debug\UserControls\MainTabUCs\ChartHead.g.cs
+E:\Display\Apollo\Apollo\obj\Debug\UserControls\MainTabUCs\HomeGridControl.g.cs
+E:\Display\Apollo\Apollo\obj\Debug\UserControls\MainTabView.g.cs
+E:\Display\Apollo\Apollo\obj\Debug\UserControls\NetSyn.g.cs
+E:\Display\Apollo\Apollo\obj\Debug\Views\BER\BERChart.g.cs
+E:\Display\Apollo\Apollo\obj\Debug\Views\Constellation\ConstellationChart.g.cs
+E:\Display\Apollo\Apollo\obj\Debug\Views\PHYRate\PHYChart.g.cs
+E:\Display\Apollo\Apollo\obj\Debug\Views\SpectrumSensing\ssBlock.g.cs
+E:\Display\Apollo\Apollo\obj\Debug\Views\SpectrumSensing\sSensing.g.cs
+E:\Display\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateBullet.g.cs
+E:\Display\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateDistribution.g.cs
+E:\Display\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateFullFigure.g.cs
+E:\Display\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateRealtime.g.cs
+E:\Display\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateStatic.g.cs
+E:\Display\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateUtilization.g.cs
+E:\Display\Apollo\Apollo\obj\Debug\App.g.cs
+E:\Display\Apollo\Apollo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Display\Apollo\Apollo\obj\Debug\Apollo_MarkupCompile.cache
+E:\Display\Apollo\Apollo\obj\Debug\Apollo_MarkupCompile.lref
+E:\Display\Apollo\Apollo\obj\Debug\MainWindow.baml
+E:\Display\Apollo\Apollo\obj\Debug\UserControls\ChartUCs\BER.baml
+E:\Display\Apollo\Apollo\obj\Debug\UserControls\ChartUCs\Constellation.baml
+E:\Display\Apollo\Apollo\obj\Debug\UserControls\ChartUCs\PHYRate.baml
+E:\Display\Apollo\Apollo\obj\Debug\UserControls\ChartUCs\SpectrumSensing.baml
+E:\Display\Apollo\Apollo\obj\Debug\UserControls\ChartUCs\TrafficRate.baml
+E:\Display\Apollo\Apollo\obj\Debug\UserControls\MainTabUCs\ChartGridControl.baml
+E:\Display\Apollo\Apollo\obj\Debug\UserControls\MainTabUCs\HomeGridControl.baml
+E:\Display\Apollo\Apollo\obj\Debug\UserControls\MainTabView.baml
+E:\Display\Apollo\Apollo\obj\Debug\Views\SpectrumSensing\sSensing.baml
+E:\Display\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateFullFigure.baml
+E:\Display\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateStatic.baml
+E:\Display\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateUtilization.baml
+E:\Display\Apollo\Apollo\obj\Debug\Apollo.g.resources
+E:\Apollo\Apollo\obj\Debug\Apollo.exe
+E:\Apollo\Apollo\obj\Debug\Apollo.pdb
+E:\Apollo\Apollo\bin\Debug\Apollo.exe
+E:\Apollo\Apollo\bin\Debug\Apollo.pdb
+E:\Apollo\Apollo\bin\Debug\MahApps.Metro.dll
+E:\Apollo\Apollo\bin\Debug\Microsoft.Expression.Drawing.dll
+E:\Apollo\Apollo\bin\Debug\Microsoft.Expression.Effects.dll
+E:\Apollo\Apollo\bin\Debug\Microsoft.Expression.Interactions.dll
+E:\Apollo\Apollo\bin\Debug\System.Windows.Interactivity.dll
+E:\Apollo\Apollo\bin\Debug\ToggleSwitch.dll
+E:\Apollo\Apollo\bin\Debug\WPFToolkit.dll
+E:\Apollo\Apollo\bin\Debug\Microsoft.Expression.Drawing.xml
+E:\Apollo\Apollo\bin\Debug\Microsoft.Expression.Effects.xml
+E:\Apollo\Apollo\bin\Debug\Microsoft.Expression.Interactions.xml
+E:\Apollo\Apollo\bin\Debug\WPFToolkit.pdb
+E:\Apollo\Apollo\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+E:\Apollo\Apollo\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+E:\Apollo\Apollo\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+E:\Apollo\Apollo\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+E:\Apollo\Apollo\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+E:\Apollo\Apollo\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+E:\Apollo\Apollo\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+E:\Apollo\Apollo\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+E:\Apollo\Apollo\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+E:\Apollo\Apollo\obj\Debug\ResolveAssemblyReference.cache
+E:\Apollo\Apollo\obj\Debug\Resources\ChartSwitchButton.baml
+E:\Apollo\Apollo\obj\Debug\Resources\Effect.baml
+E:\Apollo\Apollo\obj\Debug\Resources\HeaderButton.baml
+E:\Apollo\Apollo\obj\Debug\Resources\LinearColor.baml
+E:\Apollo\Apollo\obj\Debug\Resources\ToggleSwitch.baml
+E:\Apollo\Apollo\obj\Debug\Resources\TrafficBack.baml
+E:\Apollo\Apollo\obj\Debug\Resources\Simple Styles.baml
+E:\Apollo\Apollo\obj\Debug\UserControls\NetSyn.baml
+E:\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateBullet.baml
+E:\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateDistribution.baml
+E:\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateRealtime.baml
+E:\Apollo\Apollo\obj\Debug\App.baml
+E:\Apollo\Apollo\obj\Debug\MainWindow.g.cs
+E:\Apollo\Apollo\obj\Debug\UserControls\ChartUCs\Constellation.g.cs
+E:\Apollo\Apollo\obj\Debug\UserControls\ChartUCs\TrafficRate.g.cs
+E:\Apollo\Apollo\obj\Debug\UserControls\MainTabUCs\ChartGridControl.g.cs
+E:\Apollo\Apollo\obj\Debug\UserControls\MainTabUCs\HomeGridControl.g.cs
+E:\Apollo\Apollo\obj\Debug\UserControls\NetSyn.g.cs
+E:\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateBullet.g.cs
+E:\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateDistribution.g.cs
+E:\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateFullFigure.g.cs
+E:\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateRealtime.g.cs
+E:\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateStatic.g.cs
+E:\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateUtilization.g.cs
+E:\Apollo\Apollo\obj\Debug\App.g.cs
+E:\Apollo\Apollo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Apollo\Apollo\obj\Debug\Apollo_MarkupCompile.cache
+E:\Apollo\Apollo\obj\Debug\Apollo_MarkupCompile.lref
+E:\Apollo\Apollo\obj\Debug\MainWindow.baml
+E:\Apollo\Apollo\obj\Debug\UserControls\ChartUCs\Constellation.baml
+E:\Apollo\Apollo\obj\Debug\UserControls\ChartUCs\TrafficRate.baml
+E:\Apollo\Apollo\obj\Debug\UserControls\MainTabUCs\ChartGridControl.baml
+E:\Apollo\Apollo\obj\Debug\UserControls\MainTabUCs\HomeGridControl.baml
+E:\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateFullFigure.baml
+E:\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateStatic.baml
+E:\Apollo\Apollo\obj\Debug\Views\TrafficRate\TrafficRateUtilization.baml
+E:\Apollo\Apollo\obj\Debug\Apollo.g.resources
+E:\Apollo\Apollo\obj\Debug\Views\TrafficRate\ConstellationChart.baml
+E:\Apollo\Apollo\obj\Debug\Views\TrafficRate\ConstellationChart.g.cs
+E:\Apollo\Apollo\obj\Debug\UserControls\MainTabUCs\HeaderButtonView.baml
+E:\Apollo\Apollo\obj\Debug\NewFolder1\AboutGridControl.baml
+E:\Apollo\Apollo\obj\Debug\NewFolder1\ChartHead.baml
+E:\Apollo\Apollo\obj\Debug\NewFolder1\BER\BERChart.baml
+E:\Apollo\Apollo\obj\Debug\NewFolder1\PHYRate\PHYChart.baml
+E:\Apollo\Apollo\obj\Debug\NewFolder1\SpectrumSensing\ssBlock.baml
+E:\Apollo\Apollo\obj\Debug\NewFolder1\BER.g.cs
+E:\Apollo\Apollo\obj\Debug\NewFolder1\PHYRate.g.cs
+E:\Apollo\Apollo\obj\Debug\NewFolder1\SpectrumSensing.g.cs
+E:\Apollo\Apollo\obj\Debug\UserControls\MainTabUCs\HeaderButtonView.g.cs
+E:\Apollo\Apollo\obj\Debug\NewFolder1\AboutGridControl.g.cs
+E:\Apollo\Apollo\obj\Debug\NewFolder1\ChartHead.g.cs
+E:\Apollo\Apollo\obj\Debug\UserControls\MainTabUCs\MainTabView.g.cs
+E:\Apollo\Apollo\obj\Debug\NewFolder1\BER\BERChart.g.cs
+E:\Apollo\Apollo\obj\Debug\NewFolder1\PHYRate\PHYChart.g.cs
+E:\Apollo\Apollo\obj\Debug\NewFolder1\SpectrumSensing\ssBlock.g.cs
+E:\Apollo\Apollo\obj\Debug\NewFolder1\SpectrumSensing\sSensing.g.cs
+E:\Apollo\Apollo\obj\Debug\NewFolder1\BER.baml
+E:\Apollo\Apollo\obj\Debug\NewFolder1\PHYRate.baml
+E:\Apollo\Apollo\obj\Debug\NewFolder1\SpectrumSensing.baml
+E:\Apollo\Apollo\obj\Debug\UserControls\MainTabUCs\MainTabView.baml
+E:\Apollo\Apollo\obj\Debug\NewFolder1\SpectrumSensing\sSensing.baml
+E:\A_TrafficRate1\Apollo\obj\Debug\Apollo.exe
+E:\A_TrafficRate1\Apollo\obj\Debug\Apollo.pdb
+E:\A_TrafficRate1\Apollo\bin\Debug\Apollo.exe
+E:\A_TrafficRate1\Apollo\bin\Debug\Apollo.pdb
+E:\A_TrafficRate1\Apollo\bin\Debug\MahApps.Metro.dll
+E:\A_TrafficRate1\Apollo\bin\Debug\Microsoft.Expression.Drawing.dll
+E:\A_TrafficRate1\Apollo\bin\Debug\Microsoft.Expression.Effects.dll
+E:\A_TrafficRate1\Apollo\bin\Debug\Microsoft.Expression.Interactions.dll
+E:\A_TrafficRate1\Apollo\bin\Debug\System.Windows.Interactivity.dll
+E:\A_TrafficRate1\Apollo\bin\Debug\ToggleSwitch.dll
+E:\A_TrafficRate1\Apollo\bin\Debug\WPFToolkit.dll
+E:\A_TrafficRate1\Apollo\bin\Debug\Microsoft.Expression.Drawing.xml
+E:\A_TrafficRate1\Apollo\bin\Debug\Microsoft.Expression.Effects.xml
+E:\A_TrafficRate1\Apollo\bin\Debug\Microsoft.Expression.Interactions.xml
+E:\A_TrafficRate1\Apollo\bin\Debug\WPFToolkit.pdb
+E:\A_TrafficRate1\Apollo\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+E:\A_TrafficRate1\Apollo\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+E:\A_TrafficRate1\Apollo\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+E:\A_TrafficRate1\Apollo\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+E:\A_TrafficRate1\Apollo\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+E:\A_TrafficRate1\Apollo\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+E:\A_TrafficRate1\Apollo\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+E:\A_TrafficRate1\Apollo\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+E:\A_TrafficRate1\Apollo\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+E:\A_TrafficRate1\Apollo\obj\Debug\ResolveAssemblyReference.cache
+E:\A_TrafficRate1\Apollo\obj\Debug\Resources\ChartSwitchButton.baml
+E:\A_TrafficRate1\Apollo\obj\Debug\Resources\Effect.baml
+E:\A_TrafficRate1\Apollo\obj\Debug\Resources\HeaderButton.baml
+E:\A_TrafficRate1\Apollo\obj\Debug\Resources\LinearColor.baml
+E:\A_TrafficRate1\Apollo\obj\Debug\Resources\ToggleSwitch.baml
+E:\A_TrafficRate1\Apollo\obj\Debug\Resources\TrafficBack.baml
+E:\A_TrafficRate1\Apollo\obj\Debug\Resources\Simple Styles.baml
+E:\A_TrafficRate1\Apollo\obj\Debug\UserControls\MainTabUCs\HeaderButtonView.baml
+E:\A_TrafficRate1\Apollo\obj\Debug\UserControls\NetSyn.baml
+E:\A_TrafficRate1\Apollo\obj\Debug\App.baml
+E:\A_TrafficRate1\Apollo\obj\Debug\MainWindow.g.cs
+E:\A_TrafficRate1\Apollo\obj\Debug\UserControls\MainTabUCs\HeaderButtonView.g.cs
+E:\A_TrafficRate1\Apollo\obj\Debug\UserControls\MainTabUCs\MainTabView.g.cs
+E:\A_TrafficRate1\Apollo\obj\Debug\UserControls\NetSyn.g.cs
+E:\A_TrafficRate1\Apollo\obj\Debug\App.g.cs
+E:\A_TrafficRate1\Apollo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\A_TrafficRate1\Apollo\obj\Debug\Apollo_MarkupCompile.cache
+E:\A_TrafficRate1\Apollo\obj\Debug\Apollo_MarkupCompile.lref
+E:\A_TrafficRate1\Apollo\obj\Debug\MainWindow.baml
+E:\A_TrafficRate1\Apollo\obj\Debug\UserControls\MainTabUCs\MainTabView.baml
+E:\A_TrafficRate1\Apollo\obj\Debug\Apollo.g.resources
+E:\A_TrafficRate1\Apollo\obj\Debug\UserControls\TrafficRate\ConstellationChart.baml
+E:\A_TrafficRate1\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRateBullet.baml
+E:\A_TrafficRate1\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRateDistribution.baml
+E:\A_TrafficRate1\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRateRealtime.baml
+E:\A_TrafficRate1\Apollo\obj\Debug\UserControls\TrafficRate\Constellation.g.cs
+E:\A_TrafficRate1\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRate.g.cs
+E:\A_TrafficRate1\Apollo\obj\Debug\UserControls\TrafficRate\ConstellationChart.g.cs
+E:\A_TrafficRate1\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRateBullet.g.cs
+E:\A_TrafficRate1\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRateDistribution.g.cs
+E:\A_TrafficRate1\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRateFullFigure.g.cs
+E:\A_TrafficRate1\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRateRealtime.g.cs
+E:\A_TrafficRate1\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRateStatic.g.cs
+E:\A_TrafficRate1\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRateUtilization.g.cs
+E:\A_TrafficRate1\Apollo\obj\Debug\UserControls\TrafficRate\Constellation.baml
+E:\A_TrafficRate1\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRate.baml
+E:\A_TrafficRate1\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRateFullFigure.baml
+E:\A_TrafficRate1\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRateStatic.baml
+E:\A_TrafficRate1\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRateUtilization.baml
+D:\A_TrafficRate1\Apollo\obj\Debug\Apollo.exe
+D:\A_TrafficRate1\Apollo\obj\Debug\Apollo.pdb
+D:\A_TrafficRate1\Apollo\bin\Debug\Apollo.exe
+D:\A_TrafficRate1\Apollo\bin\Debug\Apollo.pdb
+D:\A_TrafficRate1\Apollo\bin\Debug\MahApps.Metro.dll
+D:\A_TrafficRate1\Apollo\bin\Debug\Microsoft.Expression.Drawing.dll
+D:\A_TrafficRate1\Apollo\bin\Debug\Microsoft.Expression.Effects.dll
+D:\A_TrafficRate1\Apollo\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\A_TrafficRate1\Apollo\bin\Debug\System.Windows.Interactivity.dll
+D:\A_TrafficRate1\Apollo\bin\Debug\ToggleSwitch.dll
+D:\A_TrafficRate1\Apollo\bin\Debug\WPFToolkit.dll
+D:\A_TrafficRate1\Apollo\bin\Debug\Microsoft.Expression.Drawing.xml
+D:\A_TrafficRate1\Apollo\bin\Debug\Microsoft.Expression.Effects.xml
+D:\A_TrafficRate1\Apollo\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\A_TrafficRate1\Apollo\bin\Debug\WPFToolkit.pdb
+D:\A_TrafficRate1\Apollo\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+D:\A_TrafficRate1\Apollo\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+D:\A_TrafficRate1\Apollo\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+D:\A_TrafficRate1\Apollo\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+D:\A_TrafficRate1\Apollo\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+D:\A_TrafficRate1\Apollo\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+D:\A_TrafficRate1\Apollo\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+D:\A_TrafficRate1\Apollo\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\A_TrafficRate1\Apollo\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\A_TrafficRate1\Apollo\obj\Debug\ResolveAssemblyReference.cache
+D:\A_TrafficRate1\Apollo\obj\Debug\Resources\ChartSwitchButton.baml
+D:\A_TrafficRate1\Apollo\obj\Debug\Resources\Effect.baml
+D:\A_TrafficRate1\Apollo\obj\Debug\Resources\HeaderButton.baml
+D:\A_TrafficRate1\Apollo\obj\Debug\Resources\LinearColor.baml
+D:\A_TrafficRate1\Apollo\obj\Debug\Resources\ToggleSwitch.baml
+D:\A_TrafficRate1\Apollo\obj\Debug\Resources\TrafficBack.baml
+D:\A_TrafficRate1\Apollo\obj\Debug\Resources\Simple Styles.baml
+D:\A_TrafficRate1\Apollo\obj\Debug\UserControls\MainTabUCs\HeaderButtonView.baml
+D:\A_TrafficRate1\Apollo\obj\Debug\UserControls\NetSyn.baml
+D:\A_TrafficRate1\Apollo\obj\Debug\UserControls\TrafficRate\ConstellationChart.baml
+D:\A_TrafficRate1\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRateBullet.baml
+D:\A_TrafficRate1\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRateDistribution.baml
+D:\A_TrafficRate1\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRateRealtime.baml
+D:\A_TrafficRate1\Apollo\obj\Debug\App.baml
+D:\A_TrafficRate1\Apollo\obj\Debug\MainWindow.g.cs
+D:\A_TrafficRate1\Apollo\obj\Debug\UserControls\TrafficRate\Constellation.g.cs
+D:\A_TrafficRate1\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRate.g.cs
+D:\A_TrafficRate1\Apollo\obj\Debug\UserControls\MainTabUCs\HeaderButtonView.g.cs
+D:\A_TrafficRate1\Apollo\obj\Debug\UserControls\MainTabUCs\MainTabView.g.cs
+D:\A_TrafficRate1\Apollo\obj\Debug\UserControls\NetSyn.g.cs
+D:\A_TrafficRate1\Apollo\obj\Debug\UserControls\TrafficRate\ConstellationChart.g.cs
+D:\A_TrafficRate1\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRateBullet.g.cs
+D:\A_TrafficRate1\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRateDistribution.g.cs
+D:\A_TrafficRate1\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRateFullFigure.g.cs
+D:\A_TrafficRate1\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRateRealtime.g.cs
+D:\A_TrafficRate1\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRateStatic.g.cs
+D:\A_TrafficRate1\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRateUtilization.g.cs
+D:\A_TrafficRate1\Apollo\obj\Debug\App.g.cs
+D:\A_TrafficRate1\Apollo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\A_TrafficRate1\Apollo\obj\Debug\Apollo_MarkupCompile.cache
+D:\A_TrafficRate1\Apollo\obj\Debug\Apollo_MarkupCompile.lref
+D:\A_TrafficRate1\Apollo\obj\Debug\MainWindow.baml
+D:\A_TrafficRate1\Apollo\obj\Debug\UserControls\TrafficRate\Constellation.baml
+D:\A_TrafficRate1\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRate.baml
+D:\A_TrafficRate1\Apollo\obj\Debug\UserControls\MainTabUCs\MainTabView.baml
+D:\A_TrafficRate1\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRateFullFigure.baml
+D:\A_TrafficRate1\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRateStatic.baml
+D:\A_TrafficRate1\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRateUtilization.baml
+D:\A_TrafficRate1\Apollo\obj\Debug\Apollo.g.resources
+E:\C#\A_TrafficRate3\Apollo\obj\Debug\Apollo.exe
+E:\C#\A_TrafficRate3\Apollo\obj\Debug\Apollo.pdb
+E:\C#\A_TrafficRate3\Apollo\bin\Debug\Apollo.exe
+E:\C#\A_TrafficRate3\Apollo\bin\Debug\Apollo.pdb
+E:\C#\A_TrafficRate3\Apollo\bin\Debug\MahApps.Metro.dll
+E:\C#\A_TrafficRate3\Apollo\bin\Debug\Microsoft.Expression.Drawing.dll
+E:\C#\A_TrafficRate3\Apollo\bin\Debug\Microsoft.Expression.Effects.dll
+E:\C#\A_TrafficRate3\Apollo\bin\Debug\Microsoft.Expression.Interactions.dll
+E:\C#\A_TrafficRate3\Apollo\bin\Debug\System.Windows.Interactivity.dll
+E:\C#\A_TrafficRate3\Apollo\bin\Debug\ToggleSwitch.dll
+E:\C#\A_TrafficRate3\Apollo\bin\Debug\WPFToolkit.dll
+E:\C#\A_TrafficRate3\Apollo\bin\Debug\Microsoft.Expression.Drawing.xml
+E:\C#\A_TrafficRate3\Apollo\bin\Debug\Microsoft.Expression.Effects.xml
+E:\C#\A_TrafficRate3\Apollo\bin\Debug\Microsoft.Expression.Interactions.xml
+E:\C#\A_TrafficRate3\Apollo\bin\Debug\WPFToolkit.pdb
+E:\C#\A_TrafficRate3\Apollo\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+E:\C#\A_TrafficRate3\Apollo\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+E:\C#\A_TrafficRate3\Apollo\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+E:\C#\A_TrafficRate3\Apollo\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+E:\C#\A_TrafficRate3\Apollo\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+E:\C#\A_TrafficRate3\Apollo\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+E:\C#\A_TrafficRate3\Apollo\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+E:\C#\A_TrafficRate3\Apollo\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+E:\C#\A_TrafficRate3\Apollo\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+E:\C#\A_TrafficRate3\Apollo\obj\Debug\ResolveAssemblyReference.cache
+E:\C#\A_TrafficRate3\Apollo\obj\Debug\Resources\ChartSwitchButton.baml
+E:\C#\A_TrafficRate3\Apollo\obj\Debug\Resources\Effect.baml
+E:\C#\A_TrafficRate3\Apollo\obj\Debug\Resources\HeaderButton.baml
+E:\C#\A_TrafficRate3\Apollo\obj\Debug\Resources\LinearColor.baml
+E:\C#\A_TrafficRate3\Apollo\obj\Debug\Resources\ToggleSwitch.baml
+E:\C#\A_TrafficRate3\Apollo\obj\Debug\Resources\TrafficBack.baml
+E:\C#\A_TrafficRate3\Apollo\obj\Debug\Resources\Simple Styles.baml
+E:\C#\A_TrafficRate3\Apollo\obj\Debug\UserControls\MainTabUCs\HeaderButtonView.baml
+E:\C#\A_TrafficRate3\Apollo\obj\Debug\UserControls\NetSyn.baml
+E:\C#\A_TrafficRate3\Apollo\obj\Debug\UserControls\TrafficRate\ConstellationChart.baml
+E:\C#\A_TrafficRate3\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRateBullet.baml
+E:\C#\A_TrafficRate3\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRateDistribution.baml
+E:\C#\A_TrafficRate3\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRateRealtime.baml
+E:\C#\A_TrafficRate3\Apollo\obj\Debug\App.baml
+E:\C#\A_TrafficRate3\Apollo\obj\Debug\MainWindow.g.cs
+E:\C#\A_TrafficRate3\Apollo\obj\Debug\UserControls\TrafficRate\Constellation.g.cs
+E:\C#\A_TrafficRate3\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRate.g.cs
+E:\C#\A_TrafficRate3\Apollo\obj\Debug\UserControls\MainTabUCs\HeaderButtonView.g.cs
+E:\C#\A_TrafficRate3\Apollo\obj\Debug\UserControls\MainTabUCs\MainTabView.g.cs
+E:\C#\A_TrafficRate3\Apollo\obj\Debug\UserControls\NetSyn.g.cs
+E:\C#\A_TrafficRate3\Apollo\obj\Debug\UserControls\TrafficRate\ConstellationChart.g.cs
+E:\C#\A_TrafficRate3\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRateBullet.g.cs
+E:\C#\A_TrafficRate3\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRateDistribution.g.cs
+E:\C#\A_TrafficRate3\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRateFullFigure.g.cs
+E:\C#\A_TrafficRate3\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRateRealtime.g.cs
+E:\C#\A_TrafficRate3\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRateStatic.g.cs
+E:\C#\A_TrafficRate3\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRateUtilization.g.cs
+E:\C#\A_TrafficRate3\Apollo\obj\Debug\App.g.cs
+E:\C#\A_TrafficRate3\Apollo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\C#\A_TrafficRate3\Apollo\obj\Debug\Apollo_MarkupCompile.cache
+E:\C#\A_TrafficRate3\Apollo\obj\Debug\Apollo_MarkupCompile.lref
+E:\C#\A_TrafficRate3\Apollo\obj\Debug\MainWindow.baml
+E:\C#\A_TrafficRate3\Apollo\obj\Debug\UserControls\TrafficRate\Constellation.baml
+E:\C#\A_TrafficRate3\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRate.baml
+E:\C#\A_TrafficRate3\Apollo\obj\Debug\UserControls\MainTabUCs\MainTabView.baml
+E:\C#\A_TrafficRate3\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRateFullFigure.baml
+E:\C#\A_TrafficRate3\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRateStatic.baml
+E:\C#\A_TrafficRate3\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRateUtilization.baml
+E:\C#\A_TrafficRate3\Apollo\obj\Debug\Apollo.g.resources
+E:\C#\A_TrafficRate4\Apollo\obj\Debug\Apollo.exe
+E:\C#\A_TrafficRate4\Apollo\obj\Debug\Apollo.pdb
+E:\C#\A_TrafficRate4\Apollo\obj\Debug\ResolveAssemblyReference.cache
+E:\C#\A_TrafficRate4\Apollo\obj\Debug\Resources\ChartSwitchButton.baml
+E:\C#\A_TrafficRate4\Apollo\obj\Debug\Resources\Effect.baml
+E:\C#\A_TrafficRate4\Apollo\obj\Debug\Resources\HeaderButton.baml
+E:\C#\A_TrafficRate4\Apollo\obj\Debug\Resources\LinearColor.baml
+E:\C#\A_TrafficRate4\Apollo\obj\Debug\Resources\ToggleSwitch.baml
+E:\C#\A_TrafficRate4\Apollo\obj\Debug\Resources\TrafficBack.baml
+E:\C#\A_TrafficRate4\Apollo\obj\Debug\Resources\Simple Styles.baml
+E:\C#\A_TrafficRate4\Apollo\obj\Debug\UserControls\MainTabUCs\HeaderButtonView.baml
+E:\C#\A_TrafficRate4\Apollo\obj\Debug\UserControls\NetSyn.baml
+E:\C#\A_TrafficRate4\Apollo\obj\Debug\UserControls\TrafficRate\ConstellationChart.baml
+E:\C#\A_TrafficRate4\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRateBullet.baml
+E:\C#\A_TrafficRate4\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRateDistribution.baml
+E:\C#\A_TrafficRate4\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRateRealtime.baml
+E:\C#\A_TrafficRate4\Apollo\obj\Debug\App.baml
+E:\C#\A_TrafficRate4\Apollo\obj\Debug\MainWindow.g.cs
+E:\C#\A_TrafficRate4\Apollo\obj\Debug\UserControls\TrafficRate\Constellation.g.cs
+E:\C#\A_TrafficRate4\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRate.g.cs
+E:\C#\A_TrafficRate4\Apollo\obj\Debug\UserControls\MainTabUCs\HeaderButtonView.g.cs
+E:\C#\A_TrafficRate4\Apollo\obj\Debug\UserControls\MainTabUCs\MainTabView.g.cs
+E:\C#\A_TrafficRate4\Apollo\obj\Debug\UserControls\NetSyn.g.cs
+E:\C#\A_TrafficRate4\Apollo\obj\Debug\UserControls\TrafficRate\ConstellationChart.g.cs
+E:\C#\A_TrafficRate4\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRateBullet.g.cs
+E:\C#\A_TrafficRate4\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRateDistribution.g.cs
+E:\C#\A_TrafficRate4\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRateFullFigure.g.cs
+E:\C#\A_TrafficRate4\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRateRealtime.g.cs
+E:\C#\A_TrafficRate4\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRateStatic.g.cs
+E:\C#\A_TrafficRate4\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRateUtilization.g.cs
+E:\C#\A_TrafficRate4\Apollo\obj\Debug\App.g.cs
+E:\C#\A_TrafficRate4\Apollo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\C#\A_TrafficRate4\Apollo\obj\Debug\Apollo_MarkupCompile.cache
+E:\C#\A_TrafficRate4\Apollo\obj\Debug\Apollo_MarkupCompile.lref
+E:\C#\A_TrafficRate4\Apollo\bin\Debug\Apollo.exe
+E:\C#\A_TrafficRate4\Apollo\bin\Debug\Apollo.pdb
+E:\C#\A_TrafficRate4\Apollo\bin\Debug\MahApps.Metro.dll
+E:\C#\A_TrafficRate4\Apollo\bin\Debug\Microsoft.Expression.Drawing.dll
+E:\C#\A_TrafficRate4\Apollo\bin\Debug\Microsoft.Expression.Effects.dll
+E:\C#\A_TrafficRate4\Apollo\bin\Debug\Microsoft.Expression.Interactions.dll
+E:\C#\A_TrafficRate4\Apollo\bin\Debug\System.Windows.Interactivity.dll
+E:\C#\A_TrafficRate4\Apollo\bin\Debug\ToggleSwitch.dll
+E:\C#\A_TrafficRate4\Apollo\bin\Debug\WPFToolkit.dll
+E:\C#\A_TrafficRate4\Apollo\bin\Debug\Microsoft.Expression.Drawing.xml
+E:\C#\A_TrafficRate4\Apollo\bin\Debug\Microsoft.Expression.Effects.xml
+E:\C#\A_TrafficRate4\Apollo\bin\Debug\Microsoft.Expression.Interactions.xml
+E:\C#\A_TrafficRate4\Apollo\bin\Debug\WPFToolkit.pdb
+E:\C#\A_TrafficRate4\Apollo\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+E:\C#\A_TrafficRate4\Apollo\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+E:\C#\A_TrafficRate4\Apollo\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+E:\C#\A_TrafficRate4\Apollo\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+E:\C#\A_TrafficRate4\Apollo\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+E:\C#\A_TrafficRate4\Apollo\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+E:\C#\A_TrafficRate4\Apollo\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+E:\C#\A_TrafficRate4\Apollo\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+E:\C#\A_TrafficRate4\Apollo\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+E:\C#\A_TrafficRate4\Apollo\obj\Debug\MainWindow.baml
+E:\C#\A_TrafficRate4\Apollo\obj\Debug\UserControls\TrafficRate\Constellation.baml
+E:\C#\A_TrafficRate4\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRate.baml
+E:\C#\A_TrafficRate4\Apollo\obj\Debug\UserControls\MainTabUCs\MainTabView.baml
+E:\C#\A_TrafficRate4\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRateFullFigure.baml
+E:\C#\A_TrafficRate4\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRateStatic.baml
+E:\C#\A_TrafficRate4\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRateUtilization.baml
+E:\C#\A_TrafficRate4\Apollo\obj\Debug\Apollo.g.resources
+E:\C#\A_TrafficRate5\Apollo\obj\Debug\Apollo.exe
+E:\C#\A_TrafficRate5\Apollo\obj\Debug\Apollo.pdb
+E:\C#\A_TrafficRate5\Apollo\bin\Debug\Apollo.exe
+E:\C#\A_TrafficRate5\Apollo\bin\Debug\Apollo.pdb
+E:\C#\A_TrafficRate5\Apollo\bin\Debug\MahApps.Metro.dll
+E:\C#\A_TrafficRate5\Apollo\bin\Debug\Microsoft.Expression.Drawing.dll
+E:\C#\A_TrafficRate5\Apollo\bin\Debug\Microsoft.Expression.Effects.dll
+E:\C#\A_TrafficRate5\Apollo\bin\Debug\Microsoft.Expression.Interactions.dll
+E:\C#\A_TrafficRate5\Apollo\bin\Debug\System.Windows.Interactivity.dll
+E:\C#\A_TrafficRate5\Apollo\bin\Debug\ToggleSwitch.dll
+E:\C#\A_TrafficRate5\Apollo\bin\Debug\WPFToolkit.dll
+E:\C#\A_TrafficRate5\Apollo\bin\Debug\Microsoft.Expression.Drawing.xml
+E:\C#\A_TrafficRate5\Apollo\bin\Debug\Microsoft.Expression.Effects.xml
+E:\C#\A_TrafficRate5\Apollo\bin\Debug\Microsoft.Expression.Interactions.xml
+E:\C#\A_TrafficRate5\Apollo\bin\Debug\WPFToolkit.pdb
+E:\C#\A_TrafficRate5\Apollo\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+E:\C#\A_TrafficRate5\Apollo\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+E:\C#\A_TrafficRate5\Apollo\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+E:\C#\A_TrafficRate5\Apollo\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+E:\C#\A_TrafficRate5\Apollo\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+E:\C#\A_TrafficRate5\Apollo\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+E:\C#\A_TrafficRate5\Apollo\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+E:\C#\A_TrafficRate5\Apollo\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+E:\C#\A_TrafficRate5\Apollo\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+E:\C#\A_TrafficRate5\Apollo\obj\Debug\ResolveAssemblyReference.cache
+E:\C#\A_TrafficRate5\Apollo\obj\Debug\Resources\ChartSwitchButton.baml
+E:\C#\A_TrafficRate5\Apollo\obj\Debug\Resources\Effect.baml
+E:\C#\A_TrafficRate5\Apollo\obj\Debug\Resources\HeaderButton.baml
+E:\C#\A_TrafficRate5\Apollo\obj\Debug\Resources\LinearColor.baml
+E:\C#\A_TrafficRate5\Apollo\obj\Debug\Resources\ToggleSwitch.baml
+E:\C#\A_TrafficRate5\Apollo\obj\Debug\Resources\TrafficBack.baml
+E:\C#\A_TrafficRate5\Apollo\obj\Debug\Resources\Simple Styles.baml
+E:\C#\A_TrafficRate5\Apollo\obj\Debug\UserControls\MainTabUCs\HeaderButtonView.baml
+E:\C#\A_TrafficRate5\Apollo\obj\Debug\UserControls\NetSyn.baml
+E:\C#\A_TrafficRate5\Apollo\obj\Debug\UserControls\TrafficRate\ConstellationChart.baml
+E:\C#\A_TrafficRate5\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRateBullet.baml
+E:\C#\A_TrafficRate5\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRateDistribution.baml
+E:\C#\A_TrafficRate5\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRateRealtime.baml
+E:\C#\A_TrafficRate5\Apollo\obj\Debug\App.baml
+E:\C#\A_TrafficRate5\Apollo\obj\Debug\MainWindow.g.cs
+E:\C#\A_TrafficRate5\Apollo\obj\Debug\UserControls\TrafficRate\Constellation.g.cs
+E:\C#\A_TrafficRate5\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRate.g.cs
+E:\C#\A_TrafficRate5\Apollo\obj\Debug\UserControls\MainTabUCs\HeaderButtonView.g.cs
+E:\C#\A_TrafficRate5\Apollo\obj\Debug\UserControls\MainTabUCs\MainTabView.g.cs
+E:\C#\A_TrafficRate5\Apollo\obj\Debug\UserControls\NetSyn.g.cs
+E:\C#\A_TrafficRate5\Apollo\obj\Debug\UserControls\TrafficRate\ConstellationChart.g.cs
+E:\C#\A_TrafficRate5\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRateBullet.g.cs
+E:\C#\A_TrafficRate5\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRateDistribution.g.cs
+E:\C#\A_TrafficRate5\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRateFullFigure.g.cs
+E:\C#\A_TrafficRate5\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRateRealtime.g.cs
+E:\C#\A_TrafficRate5\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRateStatic.g.cs
+E:\C#\A_TrafficRate5\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRateUtilization.g.cs
+E:\C#\A_TrafficRate5\Apollo\obj\Debug\App.g.cs
+E:\C#\A_TrafficRate5\Apollo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\C#\A_TrafficRate5\Apollo\obj\Debug\Apollo_MarkupCompile.cache
+E:\C#\A_TrafficRate5\Apollo\obj\Debug\Apollo_MarkupCompile.lref
+E:\C#\A_TrafficRate5\Apollo\obj\Debug\MainWindow.baml
+E:\C#\A_TrafficRate5\Apollo\obj\Debug\UserControls\TrafficRate\Constellation.baml
+E:\C#\A_TrafficRate5\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRate.baml
+E:\C#\A_TrafficRate5\Apollo\obj\Debug\UserControls\MainTabUCs\MainTabView.baml
+E:\C#\A_TrafficRate5\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRateFullFigure.baml
+E:\C#\A_TrafficRate5\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRateStatic.baml
+E:\C#\A_TrafficRate5\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRateUtilization.baml
+E:\C#\A_TrafficRate5\Apollo\obj\Debug\Apollo.g.resources
+E:\C#\A_TrafficRate6\Apollo\obj\Debug\Apollo.exe
+E:\C#\A_TrafficRate6\Apollo\obj\Debug\Apollo.pdb
+E:\C#\A_TrafficRate6\Apollo\bin\Debug\Apollo.exe
+E:\C#\A_TrafficRate6\Apollo\bin\Debug\Apollo.pdb
+E:\C#\A_TrafficRate6\Apollo\bin\Debug\MahApps.Metro.dll
+E:\C#\A_TrafficRate6\Apollo\bin\Debug\Microsoft.Expression.Drawing.dll
+E:\C#\A_TrafficRate6\Apollo\bin\Debug\Microsoft.Expression.Effects.dll
+E:\C#\A_TrafficRate6\Apollo\bin\Debug\Microsoft.Expression.Interactions.dll
+E:\C#\A_TrafficRate6\Apollo\bin\Debug\System.Windows.Interactivity.dll
+E:\C#\A_TrafficRate6\Apollo\bin\Debug\ToggleSwitch.dll
+E:\C#\A_TrafficRate6\Apollo\bin\Debug\WPFToolkit.dll
+E:\C#\A_TrafficRate6\Apollo\bin\Debug\Microsoft.Expression.Drawing.xml
+E:\C#\A_TrafficRate6\Apollo\bin\Debug\Microsoft.Expression.Effects.xml
+E:\C#\A_TrafficRate6\Apollo\bin\Debug\Microsoft.Expression.Interactions.xml
+E:\C#\A_TrafficRate6\Apollo\bin\Debug\WPFToolkit.pdb
+E:\C#\A_TrafficRate6\Apollo\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+E:\C#\A_TrafficRate6\Apollo\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+E:\C#\A_TrafficRate6\Apollo\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+E:\C#\A_TrafficRate6\Apollo\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+E:\C#\A_TrafficRate6\Apollo\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+E:\C#\A_TrafficRate6\Apollo\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+E:\C#\A_TrafficRate6\Apollo\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+E:\C#\A_TrafficRate6\Apollo\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+E:\C#\A_TrafficRate6\Apollo\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+E:\C#\A_TrafficRate6\Apollo\obj\Debug\ResolveAssemblyReference.cache
+E:\C#\A_TrafficRate6\Apollo\obj\Debug\Resources\ChartSwitchButton.baml
+E:\C#\A_TrafficRate6\Apollo\obj\Debug\Resources\Effect.baml
+E:\C#\A_TrafficRate6\Apollo\obj\Debug\Resources\HeaderButton.baml
+E:\C#\A_TrafficRate6\Apollo\obj\Debug\Resources\LinearColor.baml
+E:\C#\A_TrafficRate6\Apollo\obj\Debug\Resources\ToggleSwitch.baml
+E:\C#\A_TrafficRate6\Apollo\obj\Debug\Resources\TrafficBack.baml
+E:\C#\A_TrafficRate6\Apollo\obj\Debug\Resources\Simple Styles.baml
+E:\C#\A_TrafficRate6\Apollo\obj\Debug\UserControls\MainTabUCs\HeaderButtonView.baml
+E:\C#\A_TrafficRate6\Apollo\obj\Debug\UserControls\NetSyn.baml
+E:\C#\A_TrafficRate6\Apollo\obj\Debug\UserControls\TrafficRate\ConstellationChart.baml
+E:\C#\A_TrafficRate6\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRateBullet.baml
+E:\C#\A_TrafficRate6\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRateDistribution.baml
+E:\C#\A_TrafficRate6\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRateRealtime.baml
+E:\C#\A_TrafficRate6\Apollo\obj\Debug\App.baml
+E:\C#\A_TrafficRate6\Apollo\obj\Debug\MainWindow.g.cs
+E:\C#\A_TrafficRate6\Apollo\obj\Debug\UserControls\TrafficRate\Constellation.g.cs
+E:\C#\A_TrafficRate6\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRate.g.cs
+E:\C#\A_TrafficRate6\Apollo\obj\Debug\UserControls\MainTabUCs\HeaderButtonView.g.cs
+E:\C#\A_TrafficRate6\Apollo\obj\Debug\UserControls\MainTabUCs\MainTabView.g.cs
+E:\C#\A_TrafficRate6\Apollo\obj\Debug\UserControls\NetSyn.g.cs
+E:\C#\A_TrafficRate6\Apollo\obj\Debug\UserControls\TrafficRate\ConstellationChart.g.cs
+E:\C#\A_TrafficRate6\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRateBullet.g.cs
+E:\C#\A_TrafficRate6\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRateDistribution.g.cs
+E:\C#\A_TrafficRate6\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRateFullFigure.g.cs
+E:\C#\A_TrafficRate6\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRateRealtime.g.cs
+E:\C#\A_TrafficRate6\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRateStatic.g.cs
+E:\C#\A_TrafficRate6\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRateUtilization.g.cs
+E:\C#\A_TrafficRate6\Apollo\obj\Debug\App.g.cs
+E:\C#\A_TrafficRate6\Apollo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\C#\A_TrafficRate6\Apollo\obj\Debug\Apollo_MarkupCompile.cache
+E:\C#\A_TrafficRate6\Apollo\obj\Debug\Apollo_MarkupCompile.lref
+E:\C#\A_TrafficRate6\Apollo\obj\Debug\MainWindow.baml
+E:\C#\A_TrafficRate6\Apollo\obj\Debug\UserControls\TrafficRate\Constellation.baml
+E:\C#\A_TrafficRate6\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRate.baml
+E:\C#\A_TrafficRate6\Apollo\obj\Debug\UserControls\MainTabUCs\MainTabView.baml
+E:\C#\A_TrafficRate6\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRateFullFigure.baml
+E:\C#\A_TrafficRate6\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRateStatic.baml
+E:\C#\A_TrafficRate6\Apollo\obj\Debug\UserControls\TrafficRate\TrafficRateUtilization.baml
+E:\C#\A_TrafficRate6\Apollo\obj\Debug\Apollo.g.resources

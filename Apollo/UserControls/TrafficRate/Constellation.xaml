@@ -1,0 +1,29 @@
+﻿<UserControl
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	xmlns:c="http://stylist.codinator.net/2010"
+	xmlns:Visifire_Charts="clr-namespace:Visifire.Charts;assembly=WPFVisifire.Charts"
+	xmlns:local="clr-namespace:Apollo"
+	mc:Ignorable="d"
+	x:Class="Apollo.Constellation"
+	x:Name="UserControl"
+	d:DesignWidth="600" d:DesignHeight="300">
+
+	<Grid x:Name="LayoutRoot">
+		<Grid.RowDefinitions>
+			<RowDefinition Height="30"/>
+			<RowDefinition/>
+		</Grid.RowDefinitions>
+		<c:Stylist Effect="{DynamicResource WindowDropShadow}" Grid.RowSpan="2">
+			<c:Background Fill="AliceBlue"/>
+			<c:GridPattern Color="Black" Angle="45" Thickness="0.5" Size="7" Opacity="0.18"/>
+		</c:Stylist>
+		<Path Data="M178.66025,0 L188.66025,0 171.33975,30 161.33975,30 z M168.66025,0 L173.66025,0 156.33975,30 151.33975,30 z M158.66025,0 L163.66025,0 146.33975,30 141.33975,30 z M0,0 L133.66025,0 135,0 153.66025,0 136.33975,30 135,30 116.33974,30 0,30 z" Fill="{DynamicResource {x:Static SystemColors.HighlightBrushKey}}" HorizontalAlignment="Left" Stretch="Fill" Width="188.66"/>
+		<Rectangle Margin="0" VerticalAlignment="Bottom" Height="2" StrokeThickness="0" Fill="{DynamicResource {x:Static SystemColors.HighlightBrushKey}}"/>
+		<Label Content="Constellation" HorizontalAlignment="Left" Margin="8,0,0,0" VerticalAlignment="Top" Padding="0" HorizontalContentAlignment="Center" FontSize="21.333" Foreground="White" VerticalContentAlignment="Center" Effect="{DynamicResource TextDropShadow}" FontFamily="/Apollo;component/Fonts/#Segoe UI" d:LayoutOverrides="HorizontalAlignment, GridBox"/>
+		<Button x:Name="conFlush" Content="Button" HorizontalAlignment="Right" Width="34" Style="{DynamicResource FlushButtonStyle}" Margin="0,0,8,0" d:LayoutOverrides="Height" Click="conFlush_Click"/>
+        <local:ConstellationChart Grid.Row="1" />
+    </Grid>
+</UserControl>

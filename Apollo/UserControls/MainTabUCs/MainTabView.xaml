@@ -1,0 +1,23 @@
+﻿<UserControl
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	xmlns:ei="http://schemas.microsoft.com/expression/2010/interactions" xmlns:ee="http://schemas.microsoft.com/expression/2010/effects" xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+	xmlns:local="clr-namespace:Apollo"
+	mc:Ignorable="d"
+	x:Class="Apollo.MainTabView"
+	x:Name="UserControl"
+	d:DesignWidth="800" d:DesignHeight="420">
+	<UserControl.Resources>
+		<BooleanToVisibilityConverter x:Key="BooleanToVisibilityConverter"/>
+	</UserControl.Resources>
+	<Grid x:Name="LayoutRoot">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40" />
+            <RowDefinition Height="380*" />
+        </Grid.RowDefinitions>
+        <Label Content="超高速无线局域网无线接口关键技术研究与验证系统演示" Height="48" HorizontalAlignment="Right" Name="label1" VerticalAlignment="Top" FontSize="30" FontFamily="/Apollo;component/Fonts/#Segoe UI" Foreground="#FF4DB6ED" FontWeight="Normal"  VerticalContentAlignment="Top" Margin="0,-8,0,0" />
+        <local:TrafficRate x:Name="TrafficRate" RenderTransformOrigin="0.5,0" Grid.Row="1" Margin="0,0,0,0" />
+    </Grid>
+</UserControl>

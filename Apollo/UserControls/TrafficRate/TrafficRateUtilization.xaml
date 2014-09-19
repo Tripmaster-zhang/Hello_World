@@ -1,0 +1,130 @@
+﻿<UserControl
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	xmlns:Visifire_Gauges="clr-namespace:Visifire.Gauges;assembly=WPFVisifire.Gauges"
+	xmlns:ei="http://schemas.microsoft.com/expression/2010/interactions" xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+	xmlns:c="http://stylist.codinator.net/2010"
+	xmlns:Visifire_Charts="clr-namespace:Visifire.Charts;assembly=WPFVisifire.Charts"
+	xmlns:local="clr-namespace:Apollo"
+	mc:Ignorable="d"
+	x:Class="Apollo.TrafficRateUtilization"
+	x:Name="UserControl"
+	d:DesignWidth="211" d:DesignHeight="59">
+	<UserControl.Resources>
+<!-- DefaultedBorderBrush is used to show KeyBoardFocus -->
+		<LinearGradientBrush x:Key="DefaultedBorderBrush" EndPoint="0,1" StartPoint="0,0">
+			<GradientStop Color="#777" Offset="0.0"/>
+			<GradientStop Color="#000" Offset="1.0"/>
+		</LinearGradientBrush>
+
+		<LinearGradientBrush x:Key="BrushGreen" StartPoint="0.5,0" EndPoint="0.5,1">
+			<GradientStop Color="#FF22B622" Offset="0"/>
+			<GradientStop Color="#FF187718" Offset="0.5"/>
+			<GradientStop Color="#FF208020" Offset="0.8"/>
+			<GradientStop Color="#FF1DB61D" Offset="1"/>
+		</LinearGradientBrush>
+		<LinearGradientBrush x:Key="BrushYellow" StartPoint="0.5,0" EndPoint="0.5,1">
+			<GradientStop Color="#FFFFFF62" Offset="0"/>
+			<GradientStop Color="#FFCCCC2B" Offset="0.5"/>
+			<GradientStop Color="#FFCDCD12" Offset="0.8"/>
+			<GradientStop Color="#f7f791" Offset="1"/>
+		</LinearGradientBrush>
+		<LinearGradientBrush x:Key="BrushRed" StartPoint="0.5,0" EndPoint="0.5,1">
+			<GradientStop Color="#f25757" Offset="0"/>
+			<GradientStop Color="#FFBB2727" Offset="0.5"/>
+			<GradientStop Color="#FFB71414" Offset="0.8"/>
+			<GradientStop Color="#f03e3e" Offset="1"/>
+		</LinearGradientBrush>
+	</UserControl.Resources>
+
+	<Grid x:Name="LayoutRoot">
+		<VisualStateManager.VisualStateGroups>
+			<VisualStateGroup x:Name="VisualStateGroup" ei:ExtendedVisualStateManager.UseFluidLayout="True">
+				<VisualStateGroup.Transitions>
+					<VisualTransition GeneratedDuration="0:0:1"/>
+				</VisualStateGroup.Transitions>
+				<VisualState x:Name="GridOn">
+					<Storyboard>
+						<ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="grid">
+							<DiscreteObjectKeyFrame KeyTime="0" Value="{x:Static Visibility.Visible}"/>
+						</ObjectAnimationUsingKeyFrames>
+						<ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="grid1">
+							<DiscreteObjectKeyFrame KeyTime="0" Value="{x:Static Visibility.Hidden}"/>
+						</ObjectAnimationUsingKeyFrames>
+					</Storyboard>
+				</VisualState>
+				<VisualState x:Name="GridOff">
+					<Storyboard>
+						<ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="grid">
+							<DiscreteObjectKeyFrame KeyTime="0" Value="{x:Static Visibility.Hidden}"/>
+						</ObjectAnimationUsingKeyFrames>
+						<ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="grid1">
+							<DiscreteObjectKeyFrame KeyTime="0" Value="{x:Static Visibility.Visible}"/>
+						</ObjectAnimationUsingKeyFrames>
+					</Storyboard>
+				</VisualState>
+			</VisualStateGroup>
+		</VisualStateManager.VisualStateGroups>
+		<VisualStateManager.CustomVisualStateManager>
+			<ei:ExtendedVisualStateManager/>
+		</VisualStateManager.CustomVisualStateManager>
+		<Grid x:Name="grid1">
+			<i:Interaction.Triggers>
+				<i:EventTrigger EventName="MouseLeftButtonDown">
+					<ei:GoToStateAction StateName="GridOn"/>
+				</i:EventTrigger>
+			</i:Interaction.Triggers>
+			<Grid.RowDefinitions>
+				<RowDefinition Height="15*" />
+				<RowDefinition Height="45*"/>
+			</Grid.RowDefinitions>
+			<c:Stylist Effect="{DynamicResource DropShadowAround}" Grid.Row="0" Grid.RowSpan="2" Grid.ColumnSpan="2">
+				<c:Background Fill="AliceBlue"/>
+				<c:GridPattern Color="Black" Angle="45" Thickness="0.5" Size="7" Opacity="0.175"/>
+			</c:Stylist>
+			<Visifire_Gauges:Gauge DefaultTemplate="LinearGaugeBasic" Grid.Row="1" Background="Transparent" OuterBackground="Transparent">
+				<Visifire_Gauges:Gauge.CircularScales>
+					<Visifire_Gauges:CircularScale BorderThickness="0" ScaleThickness="0" StartAngle="180" SweepAngle="180"  Center="0.5,0.8" Radius="1.2" Maximum="18">
+						<Visifire_Gauges:CircularScale.MajorTicks>
+							<Visifire_Gauges:MajorTicks Placement="Outside" TickLength="0.15" TickWidth="0.05" Background="#FF20BFE0"/>
+						</Visifire_Gauges:CircularScale.MajorTicks>
+						<Visifire_Gauges:CircularScale.MinorTicks>
+							<Visifire_Gauges:MinorTicks Placement="Outside" TickLength="0.07" TickWidth="0.03" Background="#FF20BFE0"/>
+						</Visifire_Gauges:CircularScale.MinorTicks>
+						<Visifire_Gauges:CircularScale.ScaleLabels>
+							<Visifire_Gauges:ScaleLabels Placement="Outside" FontColor="#FF1C5E6C"/>
+						</Visifire_Gauges:CircularScale.ScaleLabels>
+					</Visifire_Gauges:CircularScale>
+				</Visifire_Gauges:Gauge.CircularScales>
+				<Visifire_Gauges:Gauge.Indicators>
+                    <Visifire_Gauges:BarIndicator LabelText="bit/s/Hz" ToolTipText="bit/s/Hz" LabelEnabled="True"/>
+                    <Visifire_Gauges:NeedleIndicator Value="0" BorderThickness="0" ShadowEnabled="False" x:Name="myTrUtilizationGauge" Background="{DynamicResource DefaultedBorderBrush}" CapBackground="{DynamicResource DefaultedBorderBrush}" LabelEnabled="True" LabelStyle="Inside" LabelFontFamily="/Apollo;component/Fonts/#Segoe WP" LabelFontColor="DarkGreen" ToolTipText="bit/s/Hz"/>
+					<Visifire_Gauges:MarkerIndicator Value="1.5" ShadowEnabled="False" Background="{DynamicResource {x:Static SystemColors.HighlightBrushKey}}" BorderBrush="Transparent" IndicatorLength="0.1" IndicatorWidth="0.1" ToolTipText="1.5bit/s/Hz"/>
+				</Visifire_Gauges:Gauge.Indicators>
+				<Visifire_Gauges:Gauge.Ranges>
+					<Visifire_Gauges:Range StartValue="0" EndValue="6" StartWidth="0.6" EndWidth="0.6"   Background="{DynamicResource BrushGreen}" ToolTipText="Low"/>
+					<Visifire_Gauges:Range StartValue="6" EndValue="12" StartWidth="0.6" EndWidth="0.6"  Background="{DynamicResource BrushYellow}" ToolTipText="Midium"/>
+                    <Visifire_Gauges:Range StartValue="12" EndValue="15" StartWidth="0.6" EndWidth="0.6"  Background="#FFB870" ToolTipText="High"/>
+					<Visifire_Gauges:Range StartValue="15" EndValue="18" StartWidth="0.6" EndWidth="0.6" Background="{DynamicResource BrushRed}" ToolTipText="Very High"/>
+				</Visifire_Gauges:Gauge.Ranges>
+			</Visifire_Gauges:Gauge>
+			<Label Content="Spectrum Effeciency(频谱效率)" Grid.Column="0" Grid.Row="0" Margin="0,0,0,0" HorizontalAlignment="Center" Foreground="Black" FontSize="16" FontFamily="/Apollo;component/Fonts/#Segoe WP"/>
+		</Grid>
+		<Grid x:Name="grid" Visibility="Visible" d:IsHidden="True">
+			<i:Interaction.Triggers>
+				<i:EventTrigger EventName="MouseLeftButtonDown">
+					<ei:GoToStateAction StateName="GridOff"/>
+				</i:EventTrigger>
+			</i:Interaction.Triggers>
+			<c:Stylist Grid.RowSpan="2">
+                <c:Background Fill="#28C958"/> 
+                <c:Glossy Fill="AliceBlue" Center="0.8,0" RightOffset="0" Opacity="0.1" LeftOffset="0.6"/>
+			</c:Stylist>
+            <Label Content="Spectrum Effeciency(频谱效率)" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="White" FontSize="16" FontFamily="/Apollo;component/Fonts/#Segoe WP" Height="31" />
+			<Label FontSize="15" Content="bit/s/Hz" VerticalAlignment="Bottom" d:LayoutOverrides="Width" HorizontalAlignment="Right" FontFamily="/Apollo;component/Fonts/#Segoe WP" Foreground="White" Height="30" Width="64" />
+			<Label x:Name="utilization" Content="0" HorizontalAlignment="Right" Margin="0,0,58,0" VerticalAlignment="Bottom" FontSize="20" FontFamily="/Apollo;component/Fonts/#Segoe WP" Height="42" />
+		</Grid>
+	</Grid>
+</UserControl>

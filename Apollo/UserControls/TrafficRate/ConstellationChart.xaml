@@ -1,0 +1,113 @@
+﻿<UserControl
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	xmlns:Visifire_Charts="clr-namespace:Visifire.Charts;assembly=WPFVisifire.Charts"
+    xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity" xmlns:ei="http://schemas.microsoft.com/expression/2010/interactions"
+    xmlns:c="http://stylist.codinator.net/2010"    
+	mc:Ignorable="d"
+	x:Class="Apollo.ConstellationChart"
+	x:Name="UserControl"
+	d:DesignWidth="211" d:DesignHeight="211">
+
+    <Grid x:Name="LayoutRoot">
+        <VisualStateManager.CustomVisualStateManager>
+            <ei:ExtendedVisualStateManager/>
+        </VisualStateManager.CustomVisualStateManager>
+        <VisualStateManager.VisualStateGroups>
+            <VisualStateGroup x:Name="VisualStateGroup" ei:ExtendedVisualStateManager.UseFluidLayout="True">
+                <VisualStateGroup.Transitions>
+                    <VisualTransition GeneratedDuration="0:0:1"/>
+                </VisualStateGroup.Transitions>
+                <VisualState x:Name="GridOn">
+                    <Storyboard>
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="grid">
+                            <DiscreteObjectKeyFrame KeyTime="0" Value="{x:Static Visibility.Visible}"/>
+                        </ObjectAnimationUsingKeyFrames>
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="grid1">
+                            <DiscreteObjectKeyFrame KeyTime="0" Value="{x:Static Visibility.Hidden}"/>
+                        </ObjectAnimationUsingKeyFrames>
+                    </Storyboard>
+                </VisualState>
+                <VisualState x:Name="GridOff">
+                    <Storyboard>
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="grid">
+                            <DiscreteObjectKeyFrame KeyTime="0">
+                                <DiscreteObjectKeyFrame.Value>
+                                    <Visibility>Hidden</Visibility>
+                                </DiscreteObjectKeyFrame.Value>
+                            </DiscreteObjectKeyFrame>
+                        </ObjectAnimationUsingKeyFrames>
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="grid1">
+                            <DiscreteObjectKeyFrame KeyTime="0" Value="{x:Static Visibility.Visible}"/>
+                        </ObjectAnimationUsingKeyFrames>
+                    </Storyboard>
+                </VisualState>
+            </VisualStateGroup>
+        </VisualStateManager.VisualStateGroups>
+        <Grid x:Name="grid1">
+        	<Grid.RowDefinitions>
+        		<RowDefinition Height="0.09*"/>
+        		<RowDefinition Height="0.85*"/>
+        		<RowDefinition Height="0.06*"/>
+        	</Grid.RowDefinitions>
+            <i:Interaction.Triggers>
+                <i:EventTrigger EventName="MouseLeftButtonDown">
+                    <ei:GoToStateAction StateName="GridOn"/>
+                </i:EventTrigger>
+            </i:Interaction.Triggers>
+            <c:Stylist Effect="{DynamicResource DropShadowAround}" Grid.RowSpan="3">
+            <c:Background Fill="AliceBlue"/>
+            <c:GridPattern Color="Black" Angle="45" Thickness="0.5" Size="7" Opacity="0.175"/>
+        </c:Stylist>
+            <Visifire_Charts:Chart Grid.Column="0" Grid.Row="1" Background="Transparent" ZoomingEnabled="True" BorderThickness="0" Theme="Theme3" View3D="False" ToolBarEnabled="False" ScrollingEnabled="{x:Null}" ColorSet="VisiBlue" Margin="0,0,0,0" Grid.RowSpan="1" >
+            <Visifire_Charts:Chart.Titles>
+                <Visifire_Charts:Title Enabled="False" />
+            </Visifire_Charts:Chart.Titles>
+            <Visifire_Charts:Chart.PlotArea>
+                <Visifire_Charts:PlotArea ShadowEnabled="True" />
+            </Visifire_Charts:Chart.PlotArea>
+            <Visifire_Charts:Chart.TrendLines>
+                <Visifire_Charts:TrendLine LineThickness="1" Value="0" Enabled="False" />
+            </Visifire_Charts:Chart.TrendLines>
+            <Visifire_Charts:Chart.AxesX>
+                <Visifire_Charts:Axis AxisMinimum="-1.2" AxisMaximum="1.2" Interval="0.2" StartFromZero="True" LineStyle="Solid" AxisType="Primary" >
+                    <Visifire_Charts:Axis.Grids>
+                        <Visifire_Charts:ChartGrid Interval="0.2" LineColor="black" Enabled="True" LineStyle="Solid" />
+                    </Visifire_Charts:Axis.Grids>
+                    <Visifire_Charts:Axis.Ticks>
+                        <Visifire_Charts:Ticks Interval="0.1" Enabled="False" LineStyle="Solid" />
+                    </Visifire_Charts:Axis.Ticks>
+                </Visifire_Charts:Axis>
+            </Visifire_Charts:Chart.AxesX>
+            <Visifire_Charts:Chart.AxesY>
+                <Visifire_Charts:Axis AxisMinimum="-1.2" AxisMaximum="1.2" Interval="0.2" StartFromZero="True" LineStyle="Solid" AxisType="Primary" >
+                    <Visifire_Charts:Axis.Grids>
+                        <Visifire_Charts:ChartGrid Interval="0.2" LineColor="black" Enabled="True" LineStyle="Solid" />
+                    </Visifire_Charts:Axis.Grids>
+					<Visifire_Charts:Axis.Ticks>
+                        <Visifire_Charts:Ticks Interval="0.1" Enabled="False" LineStyle="Solid" />
+                    </Visifire_Charts:Axis.Ticks>
+                </Visifire_Charts:Axis>
+            </Visifire_Charts:Chart.AxesY>
+            <Visifire_Charts:Chart.Series>
+                <Visifire_Charts:DataSeries  x:Name="myChart" RenderAs="Point" Color="blue" LineThickness="1.5" MarkerEnabled="False"/>
+            </Visifire_Charts:Chart.Series>
+        </Visifire_Charts:Chart>
+    <Label Grid.Column="1" Grid.Row="0" Content="Constellation(星座图)" HorizontalAlignment="Center" Foreground="Black" FontSize="16" FontFamily="/Apollo;component/Fonts/#Segoe WP" Margin="0,0,0,0" d:LayoutOverrides="Height"/>
+    </Grid>
+    <Grid x:Name="grid" d:IsHidden="True">
+        <i:Interaction.Triggers>
+            <i:EventTrigger EventName="MouseLeftButtonDown">
+                <ei:GoToStateAction StateName="GridOff"/>
+            </i:EventTrigger>
+        </i:Interaction.Triggers>
+        <c:Stylist>
+            <c:Background Fill="#DE4A4A"/>
+            <c:Glossy Fill="AliceBlue" Center="0.8,0" RightOffset="0" Opacity="0.1" Anchor="0.5" LeftOffset="1"/>
+        </c:Stylist>
+        <Label Content="Constellation(星座图)" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="White" FontSize="16" FontFamily="/Apollo;component/Fonts/#Segoe WP"/>
+    </Grid>
+ </Grid>    
+</UserControl>
